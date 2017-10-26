@@ -1,0 +1,4 @@
+baseURL = "https://yugsnoyl.com/blog"
+languageCode = "en-us"
+title = ""
+theme = "pickles"
