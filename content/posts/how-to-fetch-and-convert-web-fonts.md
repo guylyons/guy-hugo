@@ -1,0 +1,55 @@
+---
+title: "How to Fetch and Convert Web Fonts"
+date: 2017-10-26T19:23:35-04:00
+---
+
+# Starting Out
+
+For our purposes, the following will be helpful in accomplishing our task:
+
+* Chrome/Firefox
+* cURL, grep
+* And some handy dandy woff2/ttf converters via the web
+
+## Pick your Font Foundry
+
+I'm not going to provide any font foundries to try this out on, but, by and large, if
+there is a font foundry using any sort of live preview, whereby you are able to type in text with the actual font, then you'll be in luck to follow through with the rest of this tutorial.
+
+## Asset Inspection
+
+In Chrome we're going to open up our inspector and navigate to our `Network`
+tab.
+
+* Click `FONT` in the filters row
+* Refresh your browser
+
+You'll begin to see a list of fonts in `woff or
+woff2` format. Your browser is making `GET` requests to load these assets for
+you to use in your browser. And, well, anything that can be loaded in your
+browser can just as well be saved to your hard drive.
+
+* Right click the desired font
+* Select Copy > copy as cURL
+
+This will store in your clipboard something similar to below:
+
+```
+curl 'http://www.fake-font-foundry.com/fonts/fakey-grotesque/pro/fakey-grotesque-regular-pro.woff2' -H 'Origin: http://www.fake-font-foundry.com' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: en-US,en;q=0.8' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36' -H 'Accept: */*' -H 'Referer: http://www.fake-font-foundry.com/css/fake-font-foundry.com?v=0.0.726' -H 'Cookie: __cfduid=dff5fc1bbbdffe9722b5a746d2235427d1506517676' -H 'Connection: keep-alive' --compressed
+```
+
+You'll want to append `-O` to cURL like so:
+
+```
+curl -O ...
+```
+
+# Conversion from WOFF to TTF/OTF
+
+## What is WOFF?
+
+> "The Web Open Font Format (WOFF) is a font format for use in web pages. It was developed during 2009[3] and is now a World Wide Web Consortium (W3C) Recommendation."
+
+[Wikipedia](https://en.wikipedia.org/wiki/Web_Open_Font_Format)
+
+This format is used especially in web because if its ability to compress fonts and delivering web assets quickly.
