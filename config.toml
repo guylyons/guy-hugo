@@ -1,7 +1,7 @@
 baseURL = "https://yugsnoyl.com"
 languageCode = "en-us"
 title = "Serenity Now"
-theme = "hugo-paper"
+theme = "pickles"
 
 [params]
     twitter = "yugsnoyl"
