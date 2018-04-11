@@ -1,24 +1,24 @@
-baseURL = "https://yugsnoyl.com/blog"
+baseURL = "https://yugsnoyl.com"
 languageCode = "en-us"
-title = "Incessant Barking"
-theme = "pickles"
+title = "Serenity Now"
+theme = "hugo-paper"
 
 [params]
     twitter = "yugsnoyl"
     github = "guylyons"
     linkedin = "guylyons"
     ga_api_key = "Your Google Analytics tracking id"
-    author = "Guy Lyons II"
-    avatar = "/blog/profile.png"
-    subtitle = "A Blog About Nothing"
+    author = "Guy Lyons"
+    avatar = "/profile.png"
+    # subtitle = "A Blog About Nothing"
     contact = "mailto:website.guy@mailhero.io"
 
-# [[menu.main]]
-#     name = "Home"
-#     url = "/"
-#     weight = 1
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
 
-# [[menu.main]]
-#     name = "About"
-#     url = "/about"
-#     weight = 2
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
