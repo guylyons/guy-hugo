@@ -1,15 +1,20 @@
 ---
 title: "How to Fetch and Convert Web Fonts"
-date: 2017-10-26T19:23:35-04:00
+date: 2018-07-14T08:07:20-04:00
+draft: true
 ---
 
-# Starting Out
+Sometimes I just want to demo a font before making the big purchase. And thanks to the way your browser and the web works, if you've ever tried a live preview of a font, you've already downloaded a copy of this without even knowing it; it just takes a few more steps to save a copy of it and make it usable on your own computer.
 
-For our purposes, the following will be helpful in accomplishing our task:
+Let's get cracking.
 
-* Chrome/Firefox
-* cURL, grep
-* And some handy dandy woff2/ttf converters via the web
+## Tools
+
+For this tutorial you'll need:
+
+* Chrome
+* cURL
+* And a WOFF2 to TTF conversion tool
 
 ## Pick your Font Foundry
 
@@ -34,22 +39,18 @@ browser can just as well be saved to your hard drive.
 
 This will store in your clipboard something similar to below:
 
-```
+```bash
 curl 'http://www.fake-font-foundry.com/fonts/fakey-grotesque/pro/fakey-grotesque-regular-pro.woff2' -H 'Origin: http://www.fake-font-foundry.com' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: en-US,en;q=0.8' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36' -H 'Accept: */*' -H 'Referer: http://www.fake-font-foundry.com/css/fake-font-foundry.com?v=0.0.726' -H 'Cookie: __cfduid=dff5fc1bbbdffe9722b5a746d2235427d1506517676' -H 'Connection: keep-alive' --compressed
 ```
 
-You'll want to append `-O` to cURL like so:
+Append the switch `-O` to cURL:
 
-```
+```bash
 curl -O ...
 ```
 
-# Conversion from WOFF to TTF/OTF
-
-## What is WOFF?
+## WOFF
 
 > "The Web Open Font Format (WOFF) is a font format for use in web pages. It was developed during 2009[3] and is now a World Wide Web Consortium (W3C) Recommendation."
 
 [Wikipedia](https://en.wikipedia.org/wiki/Web_Open_Font_Format)
-
-This format is used especially in web because if its ability to compress fonts and delivering web assets quickly.
