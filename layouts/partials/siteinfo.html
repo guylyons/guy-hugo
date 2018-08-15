@@ -1,4 +1,4 @@
-<!-- {{ if or ( .Site.Params.avatar ) ( .Site.Params.author ) ( .Site.Params.bio ) ( .Site.Params.contact ) }}
+{{ if or ( .Site.Params.avatar ) ( .Site.Params.author ) ( .Site.Params.bio ) ( .Site.Params.contact ) }}
 <aside class="p-author">
   {{ with .Site.Params.avatar }}
   <div class="c-avatar p-author__avatar">
@@ -16,11 +16,11 @@
     {{ with .Site.Params.contact }}
     <p>
       <a href="{{ . }}">
-        Email Me
+        Contact me
       </a>
     </p>
     {{ end }}
   </div>
   {{ end }}
 </aside>
-{{ end }} -->
+{{ end }}

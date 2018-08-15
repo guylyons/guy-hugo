@@ -1,14 +1,14 @@
 baseURL = "https://yugsnoyl.com"
 languageCode = "en-us"
-title = "Guy Lyons"
+title = "Serenity Now"
 theme = "pickles"
 
 [params]
-    twitter = "yugsnoyl"
     github = "guylyons"
     linkedin = "guylyons"
+    twitter = "yugsnoyl"
     # ga_api_key = "Your Google Analytics tracking id"
     author = "Guy Lyons"
     avatar = "/profile.png"
-    # subtitle = ""
+    subtitle = "Misadventures in Coding"
     contact = "mailto:website.guy@mailhero.io"

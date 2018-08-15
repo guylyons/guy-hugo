@@ -1,6 +1,7 @@
 ---
 title: "Hello, World!"
 date: 2018-07-27T12:53:55-04:00
+hero: '/images/test.png'
 draft: false
 ---
 
