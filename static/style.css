@@ -1,3 +1,11 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 0;
+}
 .c-links a {
     border: none;
 }
@@ -5,8 +13,20 @@
 .hero {
     text-align: center;
 }
+.l-main {
+    max-width: 500px;
+    margin: 0 auto;
+}
 .hero img {
     max-width: 500px;
     width: 100%;
     margin: 0 auto;
+}
+
+.p-article header h1 {
+    margin: 0;
+}
+.c-article__meta,
+.c-time {
+    font-size: 12px;
 }

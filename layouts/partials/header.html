@@ -16,17 +16,13 @@
     </p>
     {{ end }}
   </header>
-  <section>
     {{ if .IsPage }}
-    <div class="hero">
       {{ if .Params.hero }}
-        <img src="{{ .Params.hero }}" alt="{{ .Params.title }}">
-      {{ end }}
-    </div>
-    {{ else }}
+  <section>
     <div class="hero">
-      <img src="/images/serenity.jpg" alt="Serenity Now">
+        <img src="{{ .Params.hero }}" alt="{{ .Params.title }}">
     </div>
+ </section>
+     {{ end }}
     {{ end }}
-  </section>
   <main id="main" class="l-main">

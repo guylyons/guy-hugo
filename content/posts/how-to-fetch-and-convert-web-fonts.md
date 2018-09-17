@@ -1,7 +1,7 @@
 ---
 title: "How to Fetch and Convert Web Fonts"
-date: 2018-07-14T08:07:20-04:00
-draft: true
+date: 2018-09-16T08:07:20-04:00
+draft: true 
 ---
 
 Sometimes I just want to demo a font before making the big purchase. And thanks to the way your browser and the web works, if you've ever tried a live preview of a font, you've already downloaded a copy of this without even knowing it; it just takes a few more steps to save a copy of it and make it usable on your own computer.

@@ -1,0 +1,2 @@
+> "I think everything I've done I've done with somebody else: it's more fun to work with other people than to lock yourself in an office and do it all by yourself." - Brian Kernighan
+

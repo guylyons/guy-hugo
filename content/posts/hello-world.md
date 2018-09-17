@@ -1,13 +1,12 @@
 ---
 title: "Hello, World!"
-date: 2018-07-27T12:53:55-04:00
-hero: '/images/test.png'
-tags: [c, python]
+date: 2018-09-16T12:53:55-04:00
 draft: false
 ---
 
 In the tradition of the great [Brian Kernighan](https://www.cs.princeton.edu/~bwk/), I begin my blog.
 
-My intent for this blog is to act as a scratchpad and journal of my daily dev tasks.
+My intent for this is to act as a sort of scratchpad and journal of my daily dev tasks.
 
-"I think everything I've done I've done with somebody else: it's more fun to work with other people than to lock yourself in an office and do it all by yourself."
+This site is built using the static site generator Hugo, which is written in Go. It's incredibly fast and efficient, and also supports
+org files out of the box! So for any Emacs users out there, it's a great solution to blogging with org.
