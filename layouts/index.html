@@ -1,4 +1,5 @@
 {{ partial "header.html" . }}
+<h1>Posts</h1>
 {{ range $index, $page := (.Paginate (where (where .Data.Pages "Type" "posts") ".Params.hidden" "!=" "true" )).Pages }}
 {{ if ne $index 0 }}
 {{ end }}

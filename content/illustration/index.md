@@ -1,7 +1,7 @@
 ---
 title: "Some of my drawings"
 date: 2018-09-17T15:53:50-04:00
-draft: false
+draft: true
 ---
 
 Some various illustrations of mine. Will add more later.

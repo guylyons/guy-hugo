@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yug snoyl</title>
+    <link>https://yugsnoyl.com/</link>
+    <description>Recent content on yug snoyl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yugsnoyl.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A little bit about me</title>
+      <link>https://yugsnoyl.com/about/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yugsnoyl.com/about/</guid>
+      <description>My name is Guy.
+I&amp;rsquo;m a developer working in the ever-growing little town of Portland, Maine. I like it here.
+I specialize in web application development, penetration testing and email marketing. I&amp;rsquo;ve developed applications, sites and marketing templates for clients like NYU, University of New England and CSArt Maine, to name a few.</description>
+    </item>
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>https://yugsnoyl.com/posts/hello-world/</link>
+      <pubDate>Sun, 16 Sep 2018 12:53:55 -0400</pubDate>
+      
+      <guid>https://yugsnoyl.com/posts/hello-world/</guid>
+      <description>In the tradition of the great Brian Kernighan, I begin my blog.
+My intent for this is to act as a sort of scratchpad and journal of my daily dev tasks.
+This site is built using the static site generator Hugo, which is written in Go. It&amp;rsquo;s incredibly fast and efficient, and also supports org files out of the box! So for any Emacs users out there, it&amp;rsquo;s a great solution to blogging with org.</description>
+    </item>
+    
+  </channel>
+</rss>

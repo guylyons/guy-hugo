@@ -4,45 +4,9 @@
 
 <body>
 
-  <aside class="sidebar">
-    {{ partial "menu.html" . }}
-    {{ partial "svgpack-sprite.html" . }}
-    <header class="l-header">
-      {{ if .IsPage }}
-      <p class="c-title p-title"><a href="{{ .Site.BaseURL }}" class="p-title__link">{{ .Site.Title }}</a></p>
-      {{ else }}
-      <h1 class="c-title p-title"><a href="{{ .Site.BaseURL }}" class="p-title__link">{{ .Site.Title }}</a></h1>
-      {{ end }}
-      {{ if .IsHome }}
-      {{ with .Site.Params.subtitle }}
-      <p class="p-subtitle">
-        {{ . }}
-      </p>
-      {{ end }}
-      {{ end }}
-    </header>
+  <div class="color-thing"></div>
 
-    <footer class="l-footer">
-
-      {{ partial "link.html" . }}
-
-      <p class="p-copyright">
-        {{ with .Site.Copyright | safeHTML }}
-        {{ . }}
-        {{ else }}
-
-        {{ if .Site.Title }}
-        <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
-        {{ end }}
-        | {{ .Site.LastChange.Format "2006" }}
-        {{ end }}
-        | <a href="https://gohugo.io/" target="_blank">Hugo</a>
-      </p>
-    </footer>
-
-    {{- partial "footer_custom.html" . }}
-
-  </aside>
+  {{ partial "aside.html" . }}
 
   <main id="main" class="l-main">
 

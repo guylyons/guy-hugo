@@ -20,7 +20,7 @@ theme = "pickles"
     name = "About"
     url = "/about"
     weight = 2
-[[menu.main]]
-    name = "Illustration"
-    url = "/illustration"
-    weight = 3
+# [[menu.main]]
+#     name = "Illustration"
+#     url = "/illustration"
+#     weight = 3
