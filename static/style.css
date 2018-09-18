@@ -61,7 +61,6 @@ img {
     body {
         display: grid;
         grid-template-columns: 300px 1fr;
-        overflow: hidden;
     }
     .sidebar {
         background: #eee;
@@ -69,11 +68,11 @@ img {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
+        position: sticky;
+        top: 0;
     }
     /* Body */
     .l-main {
-        overflow-y: scroll;
-        height: 100vh;
         max-width: 700px;
         width: 100%;
         margin: 0 auto;
