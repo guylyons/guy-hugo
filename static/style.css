@@ -1,3 +1,5 @@
+/* Typography */
+
 h1,
 h2,
 h3,
@@ -6,27 +8,82 @@ h5,
 h6 {
     margin-top: 0;
 }
+
 .c-links a {
     border: none;
 }
 
+/* Header */
+
 .hero {
     text-align: center;
 }
-.l-main {
-    max-width: 500px;
+
+.hero img {
+    max-width: 1200px;
+    width: 100%;
     margin: 0 auto;
 }
-.hero img {
+
+img {
     max-width: 500px;
+}
+
+/* Navigation */
+
+.l-nav {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.l-nav a {
+    color: #000;
+}
+
+.l-nav li {
+    margin: 0;
+    padding: 10px;
+}
+
+body {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    overflow: hidden;
+}
+
+.sidebar {
+    background: #eee;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Body */
+
+.l-main {
+    overflow-y: scroll;
+    height: 100vh;
+    max-width: 700px;
     width: 100%;
+    margin: 0 auto;
+}
+
+.p-article {
+    max-width: 700px;
     margin: 0 auto;
 }
 
 .p-article header h1 {
     margin: 0;
 }
+
 .c-article__meta,
 .c-time {
     font-size: 12px;
+}
+
+.p-article__body {
+    margin: initial;
 }

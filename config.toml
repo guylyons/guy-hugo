@@ -1,14 +1,26 @@
-baseURL = "https://yugsnoyl.com"
+baseURL = "https://yugsnoyl.com/"
 languageCode = "en-us"
-title = "SERENITY NOW"
+title = "yug snoyl"
 theme = "pickles"
 
 [params]
     github = "guylyons"
     linkedin = "guylyons"
-    # twitter = "yugsnoyl"
-    # ga_api_key = "Your Google Analytics tracking id"
+    twitter = "yugsnoyl"
     author = "Guy Lyons"
     avatar = "/profile.png"
-    # subtitle = "coding sanely"
     contact = "mailto:website.guy@mailhero.io"
+    subtitle = "a blog about nothing"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+[[menu.main]]
+    name = "Illustration"
+    url = "/illustration"
+    weight = 3
