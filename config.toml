@@ -10,17 +10,17 @@ theme = "pickles"
     author = "Guy Lyons"
     avatar = "/profile.png"
     contact = "mailto:website.guy@mailhero.io"
-    subtitle = "a blog about nothing"
+    subtitle = "always a beginner"
 
 [[menu.main]]
-    name = "Home"
+    name = "Posts"
     url = "/"
     weight = 1
 [[menu.main]]
     name = "About"
     url = "/about"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "Illustration"
     url = "/illustration"
-    weight = 3
+    weight = 2
