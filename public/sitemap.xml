@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yugsnoyl.com/posts/cat-meet-your-successor/</loc>
+    <lastmod>2018-09-19T20:22:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yugsnoyl.com/illustration/</loc>
+    <lastmod>2018-09-17T15:53:50-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yugsnoyl.com/about/</loc>
     <lastmod>2018-09-17T00:00:00+00:00</lastmod>
   </url>
@@ -19,18 +29,31 @@
   
   <url>
     <loc>https://yugsnoyl.com/posts/</loc>
-    <lastmod>2018-09-16T12:53:55-04:00</lastmod>
+    <lastmod>2018-09-19T20:22:14-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yugsnoyl.com/tags/rust/</loc>
+    <lastmod>2018-09-19T20:22:14-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yugsnoyl.com/tags/shell/</loc>
+    <lastmod>2018-09-19T20:22:14-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yugsnoyl.com/tags/</loc>
+    <lastmod>2018-09-19T20:22:14-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yugsnoyl.com/</loc>
-    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-19T20:22:14-04:00</lastmod>
     <priority>0</priority>
   </url>
   

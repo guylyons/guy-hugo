@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on yug snoyl</title>
-    <link>https://yugsnoyl.com/posts/</link>
-    <description>Recent content in Posts on yug snoyl</description>
+    <title>Rust on yug snoyl</title>
+    <link>https://yugsnoyl.com/tags/rust/</link>
+    <description>Recent content in Rust on yug snoyl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Sep 2018 20:22:14 -0400</lastBuildDate>
     
-	<atom:link href="https://yugsnoyl.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yugsnoyl.com/tags/rust/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,17 +21,6 @@
  The cat utility reads files sequentially, writing them to the standard output.
  cat does just what it says and wonderfully so. But who says there isn&amp;rsquo;t room for improvement? I first learned its usage from tldp, here: http://tldp.org/LDP/abs/html/basic.html
 With all the bells and whistles, bat is now my go to command for peaking at files quickly when in the terminal. It has Syntax highlighting, Git integration, and automatic paging, to name some features.</description>
-    </item>
-    
-    <item>
-      <title>Hello, World!</title>
-      <link>https://yugsnoyl.com/posts/hello-world/</link>
-      <pubDate>Sun, 16 Sep 2018 12:53:55 -0400</pubDate>
-      
-      <guid>https://yugsnoyl.com/posts/hello-world/</guid>
-      <description>In the tradition of the great Brian Kernighan, I begin my blog.
-My intent for this is to act as a sort of scratchpad and journal of my daily dev tasks.
-This site is built using the static site generator Hugo, which is written in Go. It&amp;rsquo;s incredibly fast and efficient, and also supports org files out of the box! So for any Emacs users out there, it&amp;rsquo;s a great solution to blogging with org.</description>
     </item>
     
   </channel>

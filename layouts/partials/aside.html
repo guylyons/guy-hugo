@@ -1,5 +1,4 @@
 <aside class="sidebar">
-    {{ partial "menu.html" . }}
     {{ partial "svgpack-sprite.html" . }}
     <header class="l-header">
         {{ if .IsPage }}
@@ -12,6 +11,9 @@
                 {{ . }}
             </p>
         {{ end }}
+
+        {{ partial "menu.html" . }}
+
     </header>
 
     <footer class="l-footer">

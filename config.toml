@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "yug snoyl"
 theme = "pickles"
 
+[outputs]
+    home = ["html", "json", "rss"]
+
 [params]
     github = "guylyons"
     linkedin = "guylyons"
