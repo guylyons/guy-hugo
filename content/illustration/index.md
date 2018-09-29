@@ -7,3 +7,4 @@ draft: false
 Some various illustrations of mine. Will add more later.
 
 ![a drawing](example.gif)
+![Jimly](/images/jimly.png)

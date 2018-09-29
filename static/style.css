@@ -9,8 +9,6 @@ h6 {
     margin-top: 0;
 }
 
-p { font-size: 1.8rem; }
-
 .c-links a {
     border: none;
 }
@@ -68,9 +66,16 @@ img {
     padding: 10px;
 }
 
+body {
+    display: grid;
+}
+
+.sidebar {
+    grid-row: 2;
+}
+
 @media (min-width: 960px) {
     body {
-        display: grid;
         grid-template-columns: 300px 1fr;
     }
     .sidebar {
@@ -81,16 +86,22 @@ img {
         justify-content: space-between;
         position: sticky;
         top: 0;
+        grid-row: 1;
     }
     /* Body */
     .l-main {
         max-width: 700px;
         width: 100%;
         margin: 0 auto;
+        display: flex;
     }
     .p-article {
         max-width: 500px;
         margin-bottom: 10em;
+    }
+    .l-main {
+        justify-content: center;
+        flex-direction: column;
     }
 }
 
@@ -105,4 +116,17 @@ img {
 
 .p-article__body {
     margin: initial;
+}
+
+/* Helpers */
+
+.full-width img,
+.hero img {
+    width: 100%;
+    height: auto;
+}
+
+.full-width {
+    display: flex;
+    justify-content: center;
 }
