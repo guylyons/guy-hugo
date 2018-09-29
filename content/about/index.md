@@ -8,6 +8,6 @@ date: 2018-09-17
 
 My name is Guy.
 
-I'm a developer working in the ever-growing little town of Portland, Maine. I like it here.
+I'm a developer working in the ever-growing little town of Portland, Maine.
 
 Find me on IRC @ Freenode #javascript, #go-nuts as cstls

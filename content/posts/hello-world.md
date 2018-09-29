@@ -2,7 +2,6 @@
 title: "Hello, World!"
 date: 2018-09-16T12:53:55-04:00
 draft: false
-hero: "/images/helloworld.png"
 ---
 
 In the tradition of the great [Brian Kernighan](https://www.cs.princeton.edu/~bwk/), I begin my blog.
