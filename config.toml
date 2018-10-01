@@ -5,6 +5,8 @@ theme = "pickles"
 
 [outputs]
     home = ["html", "json", "rss"]
+    posts = ["html", "json"]
+    page = ["html", "json"]
 
 [params]
     github = "guylyons"

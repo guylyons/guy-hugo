@@ -1,4 +1,5 @@
 {
+    "{{ .Site.Title }}",
     "version": "1.0",
     "test": 3282828
 }
