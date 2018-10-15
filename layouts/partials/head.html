@@ -48,5 +48,8 @@
   {{ end }}
   {{/*  <script type="text/javascript" src="{{ .Site.BaseURL }}js/bundle.js"></script>  */}}
   {{ partial "head_custom.html" . }}
-  <link rel="stylesheet" href="/style.css">
+
+  <noscript id="deferred-styles">
+    <link rel="stylesheet" type="text/css" href="/style.css"/>
+  </noscript>
 </head>
