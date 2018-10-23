@@ -2,3 +2,6 @@
     [link1.favorites]
         title = "Let's Build a Compiler, by Jack Crenshaw"
         url = "https://compilers.iecc.com/crenshaw/"
+    [link2.favorites]
+        title = "Back To The Future: Unix Wildcards Gone Wild"
+        url = "https://www.exploit-db.com/raw/33930/"
