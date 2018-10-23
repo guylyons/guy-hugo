@@ -1,0 +1,4 @@
+[favorites]
+    [link1.favorites]
+        title = "Let's Build a Compiler, by Jack Crenshaw"
+        url = "https://compilers.iecc.com/crenshaw/"
