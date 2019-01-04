@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ block "title" . }} {{ .Site.Title }} {{ end }}</title>
+    {{ $style := resources.Get "main.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}" type="text/css"  />
+  </head>
+  <body>
+    <main class="container">
+      <img class="jimly" src="/images/jimly.png" alt="Jimly" width="200">
+      {{ block "header" . }}
+      <a href="/">
+        <h1 title="Guy Lyons">yug snoyl</h1>
+      </a>
+      {{ end }}
+      
+      {{ partial "nav.html" . }}
+      
+      {{ block "main" . }}
+
+      {{ end }} 
+      
+      {{ block "footer" . }}
+
+      {{ end }}
+    </main>
+
+  </body>
+</html>

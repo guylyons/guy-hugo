@@ -4,9 +4,9 @@ title = "yug snoyl"
 theme = "pickles"
 
 [outputs]
-    home = ["html", "json", "rss"]
-    posts = ["html", "json"]
-    page = ["html", "json"]
+   home = ["html", "json", "rss"]
+   posts = ["html", "json"]
+   page = ["html", "json"]
 
 [params]
     github = "guylyons"
@@ -17,15 +17,15 @@ theme = "pickles"
     contact = "mailto:website.guy@mailhero.io"
     subtitle = "always a beginner"
 
-# [[menu.main]]
-#     name = "Posts"
-#     url = "/"
-#     weight = 1
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
 [[menu.main]]
     name = "About"
     url = "/about"
     weight = 3
-[[menu.main]]
-    name = "Illustration"
-    url = "/illustration"
-    weight = 2
+# [[menu.main]]
+#     name = "Illustration"
+#     url = "/illustration"
+    # weight = 2

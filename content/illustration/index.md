@@ -1,6 +1,6 @@
 ---
 title: "Some of my drawings"
-date: 2018-09-17T15:53:50-04:00
+date: 2018-09-17
 draft: false
 ---
 

@@ -3,8 +3,7 @@ title: "A little bit about me"
 draft: false
 date: 2018-09-17
 ---
-
-![me the dad](methedad.jpg)
+![me](/images/profile.png)
 
 My name is Guy.
 
