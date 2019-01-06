@@ -24,7 +24,7 @@
         {{ partial "link.html" . }}
 
         <p class="p-copyright">
-            Made by Guy {{ with .Site.Copyright | safeHTML }}
+            Guy L. Lyons II {{ with .Site.Copyright | safeHTML }}
                 {{ . }}
             {{ else }}
                 {{ .Site.LastChange.Format "2006" }}
