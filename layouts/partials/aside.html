@@ -23,13 +23,12 @@
 
         {{ partial "link.html" . }}
 
-        <p class="p-copyright">
-            Guy L. Lyons II {{ with .Site.Copyright | safeHTML }}
+        <p class="p-copyright" style="color: #fff;">
+            Guy Lyons {{ with .Site.Copyright | safeHTML }}
                 {{ . }}
             {{ else }}
                 {{ .Site.LastChange.Format "2006" }}
             {{ end }}
-            | <a href="https://gohugo.io/" target="_blank">Hugo</a>
             | <a href="{{ .Site.RSSLink }}">RSS</a>
         </p>
     </footer>

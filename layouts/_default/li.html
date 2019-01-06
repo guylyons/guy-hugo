@@ -4,8 +4,9 @@
       <img src="{{ .Params.hero }}" alt="{{ .Params.title }}">
     </a>
   {{ end }} -->
+  <a href="{{ .Permalink }}">
   <header>
-    <h2 class="c-title c-article__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <h2 class="c-title c-article__title">{{ .Title }}</h2>
     <p class="c-article__meta">
       Posted on
       <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
@@ -13,4 +14,5 @@
       </time>
     </p>
   </header>
+  </a>
 </article>
