@@ -10,14 +10,14 @@ You sit down to your favorite coffee shop, take in an aromatic sip of your confl
 
 Then, seemingly out of nowhere, you're hit with this:
 
-```
+{{< highlight bash >}}
 ❯ git push origin master
 git@github.com: Permission denied (publickey).
 fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
-```
+{{</ highlight >}}
 
 ## what the !@#$% 
 
@@ -44,13 +44,13 @@ Use this to test the connection and ensure that you're actually able to connect 
 
 It's also worth noting that the error message you get back will vary depending what you use to host your repositories. BitBucket will return something slightly different. This is what I received back after trying this out:
 
-```
+{{< highlight bash >}}
 Connection closed by xx.xxx.xx.x port 22
 fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
-```
+{{</ highlight >}}
 
 It was around this point I realized port 22 was being blocked.
 
