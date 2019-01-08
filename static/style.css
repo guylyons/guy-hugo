@@ -47,6 +47,22 @@ body {
     grid-row: 2;
 }
 
+.note {
+    border: 1px solid;
+    padding: 5px;
+    font-size: 12px;
+}
+.note::before {
+    content: "note: ";
+    font-weight: bold;
+}
+.p-article a { text-decoration: underline; color: #fcb79e; }
+a:hover {
+    color: #fcb79e;
+}
+a:focus {
+    outline: 1px dotted #666;
+}
 a { color: #000; }
 
 @media (min-width: 960px) {

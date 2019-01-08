@@ -5,13 +5,9 @@ draft: false
 tags: ["emacs"]
 ---
 
-Being able to run your ever day terminal commands in Emacs is really handy, but if you haven't configured your PATH, you probably don't have access to them.
+Being able to run your everyday terminal commands in Emacs is really handy, but if you haven't configured your PATH, you probably don't have access to them.
 
-Sometimes I see demos on YouTube where the person is window hopping from Emacs to iTerm2 -- all because they're unable to access a path their Bash or Zsh in iTerm2 already has access to.
-
-But you don't need to window hop. So similar to the $PATH variable in Bash, in Emacs you'll need to set your 'exec-path' and your "PATH" via setenv.
-
-To set paths up correctly in Emacs looks something like this:
+Similar to the $PATH variable in Bash, in Emacs you'll need to set your 'exec-path' and your "PATH" via setenv.
 
 {{< highlight lisp >}}
 ;; required for exposing commands in eshell or sane term. 
