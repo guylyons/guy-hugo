@@ -16,7 +16,7 @@ pygmentsUseClassic = true
     author = "Guy Lyons"
     avatar = "/profile.png"
     contact = "mailto:website.guy@mailhero.io"
-    subtitle = "always a beginner"
+    # subtitle = "always a beginner"
 
 [[menu.main]]
     name = "Blog"
