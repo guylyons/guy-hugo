@@ -1,12 +1,12 @@
 ---
-title: "Coffee Shop Commits"
+title: "Working in coffee shops"
 date: 2018-10-01T11:06:54-04:00
 updated: 2018-12-29
 draft: false
 tags: ["shell", "git"]
 ---
 
-You sit down to your favorite coffee shop, take in an aromatic sip of your conflict-free, freshly purchased (albeit overpriced) cup of joe, and ready your commit message to push up to your repo. 
+You sit down to your favorite coffee shop, take in an aromatic sip of your conflict-free,freshly purchased (albeit overpriced) cup of joe, and ready your commit message to push up to your repo.
 
 Then, seemingly out of nowhere, you're hit with this:
 
@@ -18,10 +18,6 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights
 and the repository exists.
 {{</ highlight >}}
-
-## what the !@#$% 
-
-Ok, relax.
 
 What happened in my case was port 22 was being blocked, so don't go running for the ssh-keygen just yet.
 
@@ -54,7 +50,7 @@ and the repository exists.
 
 It was around this point I realized port 22 was being blocked.
 
-## In Summation 
+## In Summation
 
 If you've exhausted trying to connect and it seems port 22 is being blocked, you may want to find a new shop to frequent. It's likely they're doing this for the very purpose of keeping coders out of their shops all day long, who only drink one cup of coffee and chill for the day. Be that as it may, there ares till ways around this.
 
@@ -62,6 +58,7 @@ This thread from StackExchange offers some good insight and options:
 https://unix.stackexchange.com/questions/253591/ssh-into-a-remote-server-but-my-organization-has-blocked-port-22
 
 ### Resources
+
 - https://help.github.com/articles/connecting-to-github-with-ssh/
 - https://help.github.com/categories/authenticating-to-github/
 - https://help.github.com/articles/error-permission-denied-publickey/
