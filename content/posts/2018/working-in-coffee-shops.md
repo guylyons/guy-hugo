@@ -48,8 +48,6 @@ Please make sure you have the correct access rights
 and the repository exists.
 {{</ highlight >}}
 
-It was around this point I realized port 22 was being blocked.
-
 ## In Summation
 
 If you've exhausted trying to connect and it seems port 22 is being blocked, you may want to find a new shop to frequent. It's likely they're doing this for the very purpose of keeping coders out of their shops all day long, who only drink one cup of coffee and chill for the day. Be that as it may, there ares till ways around this.
