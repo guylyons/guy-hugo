@@ -13,14 +13,15 @@ Let's get cracking.
 
 For this tutorial you'll need:
 
-* Chrome
+* a browser 
+* terminal
 * cURL
-* And a WOFF2 to TTF conversion tool
+* And a WOFF2 to TTF conversion tool (there are plethora online, so choose your favorite)
 
 ## Pick your Font Foundry
 
-I'm not going to provide any font foundries to try this out on, but, by and large, if
-there is a font foundry using any sort of live preview, whereby you are able to type in text with the actual font, then you'll be in luck to follow through with the rest of this tutorial.
+I won't provide a font foundry to try this out on, but, by and large, if
+there is a font foundry using any sort of live preview, where you are able to type in text with the actual font, then you'll be in luck to follow through with the rest of this tutorial.
 
 ## Asset Inspection
 

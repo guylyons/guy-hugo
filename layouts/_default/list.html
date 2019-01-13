@@ -1,10 +1,18 @@
-{{ partial "header.html" . }}
-<h2 class="c-title p-tag-title">{{ .Title }}</h2>
-{{ range $index, $page := (.Paginate (where .Data.Pages "Type" "posts")).Pages }}
-{{ if ne $index 0 }}
+{{ define "main" }}
+
+    {{ range .Pages.GroupByDate "2006" }}
+        <h3>{{ .Key }}</h3>
+        {{ range .Pages.GroupByDate "January" }}
+            <h4>{{ .Key }}</h4>
+            <ul>
+                {{ range where .Pages "Type" "posts" }}
+                    <li>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <div class="meta">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>
+                    </li>
+                {{ end }}
+            </ul>
+        {{ end }}
+    {{ end }}
+
 {{ end }}
-{{ .Render "li" }}
-{{ end }}
-{{ partial "pagination.html" .Paginator }}
-<!-- {{ partial "siteinfo.html" . }} -->
-{{ partial "footer.html" . }}

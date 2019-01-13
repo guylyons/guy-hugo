@@ -1,27 +1,23 @@
 @import "normalize.scss";
 
-body {
-    font-family: "Helvetica Neue", sans-serif;
-    background: #ddd;
+img {
+    width: 100%;
+    height: auto;
 }
 
 .container {
     position: relative;
-    max-width: 600px;
+    max-width: 700px;
     margin: 0 auto;
     width: 100%;
     padding: 1em 2em;
     background: #fff;
-    box-shadow: 0 0 5px rgba(0,0,0,0.25);
 }
 
-.jimly {
-    position: fixed;
-    top: 0;
-    left: 0;
-}
-
-code, kbd, samp, pre {
+code,
+kbd,
+samp,
+pre {
     overflow: scroll;
 }
 
@@ -30,13 +26,9 @@ pre {
     padding: 10px;
 }
 
-.active {
-    position: relative;
-    &::after {
-        content: "•";
-        position: absolute;
-        bottom: -15px;
-        left: 0; right: 0;
-        text-align: center;
-    }
+/* nav */
+.header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
 }

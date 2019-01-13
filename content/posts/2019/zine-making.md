@@ -6,4 +6,6 @@ draft: false
 
 The other night I made some fun illustrations to acompany my wife's writing for a zine.
 
+Take a look at what we came up with.
+
 ![The Zine](/posts/2019/alana-zine.png)
