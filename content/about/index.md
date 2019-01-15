@@ -1,15 +1,17 @@
 ---
-title: "A little bit about me"
+title: "About Guy"
 draft: false
 date: 2018-09-17
 ---
-![me](/images/profile.png)
+![me](/images/me.png)
 
-My name is Guy, and I'm a developer working in the ever-growing little town of Portland, Maine. I'm current a Web Systems Adminstrator at the University of New England. If you'd like to reach out to me:
+My name is Guy, and I'm a developer working in the ever-growing little town of Portland, Maine. I currently work as the Web Systems Adminstrator at the University of New England. 
 
-email: yugsnoyl.guy@mailhero.com
+If you'd like to reach out to me:
 
-Find me on IRC @ Freenode #javascript, #go-nuts as cstls
+  email: yugsnoyl.guy@mailhero.com
+
+  Find me on IRC @ Freenode #javascript, #go-nuts as cstls
 
 My setup:
 
