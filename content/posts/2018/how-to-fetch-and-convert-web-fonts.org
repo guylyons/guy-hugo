@@ -5,22 +5,17 @@ draft: true
 hero: /images/1535602148429.png
 ---
 
-Sometimes I just want to demo a font before making the big purchase. And thanks to the way your browser and the web works, if you've ever tried a live preview of a font, you've already downloaded a copy of this without even knowing it; it just takes a few more steps to save a copy of it and make it usable on your own computer.
+Sometimes I just want to try a font before handing over my sweet sweet cash.
 
-Let's get cracking.
+And if you've ever tried a live preview of a font, you've already downloaded a copy without even knowing it; it just takes a few more steps to save to disk and convert it.
+
+# Let's get cracking.
 
 ## Tools
 
-For this tutorial you'll need:
-
-* Chrome
+* Chrome or Firefox
 * cURL
-* And a WOFF2 to TTF conversion tool
-
-## Pick your Font Foundry
-
-I'm not going to provide any font foundries to try this out on, but, by and large, if
-there is a font foundry using any sort of live preview, whereby you are able to type in text with the actual font, then you'll be in luck to follow through with the rest of this tutorial.
+* Any WOFF2 > TTF conversion tool
 
 ## Asset Inspection
 
