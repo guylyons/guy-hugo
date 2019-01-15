@@ -3,7 +3,7 @@ title: "About Guy"
 draft: false
 date: 2018-09-17
 ---
-![me](/images/me.png)
+![me](/images/me.jpg)
 
 My name is Guy, and I'm a developer working in the ever-growing little town of Portland, Maine. I currently work as the Web Systems Adminstrator at the University of New England. 
 
