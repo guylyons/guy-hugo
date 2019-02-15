@@ -1,4 +1,16 @@
 {{ partial "header.html" . }}
+
+<ul>
+    {{ $type := .Type }}
+    {{ range $key, $value := .Data.Terms.Alphabetical }}
+        {{ $name := .Name }}
+        {{ $count := .Count }}
+        {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
+            <li><a href="{{ .Permalink }}">{{ $name }}</a> {{ $count }}</li>
+        {{ end }}
+    {{ end }}
+</ul>
+
 {{ range $index, $page := (.Paginate (where (where .Data.Pages "Type" "posts") ".Params.hidden" "!=" "true" )).Pages }}
 {{ if ne $index 0 }}
 {{ end }}
