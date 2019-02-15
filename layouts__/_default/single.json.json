@@ -1,6 +1,0 @@
-{
-    "title": "{{ .Title }}",
-    "date": "{{ .Date }}",
-    "content": "{{ .Summary }}",
-    "draft": "{{ .Draft }}"
-}
