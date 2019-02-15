@@ -5,7 +5,7 @@ date: 2018-09-17
 ---
 ![me](me.jpg)
 
-My name is Guy, and I'm a developer working in the ever-growing little town of Portland, Maine. I currently work as the Web Systems Adminstrator at the University of New England. 
+My name is Guy, and I'm a developer working in the ever-growing little town of Portland, Maine. I currently work as the Web Systems Adminstrator at the University of New England.
 
 If you'd like to reach out to me:
 
@@ -15,8 +15,8 @@ If you'd like to reach out to me:
 
 My setup:
 
-- Emacs or VS Code (I also use Vim regularly, have written plugins for Atom Editor and have never subscribed to the editor wars.)
-- MacOS
+- Emacs and VS Code mostly, Vim and ed less frequently
+- MacOS and Debian
 - iTerm2
 - Fonts: either Source Code Pro or Hack
-- Note taking and time tracking: org-mode
+- org-mode for time tracking and task management
