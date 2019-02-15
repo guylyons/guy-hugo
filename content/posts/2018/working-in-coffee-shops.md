@@ -2,7 +2,7 @@
 title: "Working in coffee shops"
 date: 2018-10-01T11:06:54-04:00
 updated: 2018-12-29
-draft: false
+draft: true 
 tags: ["shell", "git"]
 ---
 
