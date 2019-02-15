@@ -1,13 +1,9 @@
 {{ partial "header.html" . }}
 
+<h2>Tags</h2>
 <ul>
-    {{ $type := .Type }}
-    {{ range $key, $value := .Data.Terms.Alphabetical }}
-        {{ $name := .Name }}
-        {{ $count := .Count }}
-        {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
-            <li><a href="{{ .Permalink }}">{{ $name }}</a> {{ $count }}</li>
-        {{ end }}
+    {{ range $key, $tax := .Site.Taxonomies.tags }}
+        <li><a href="/tags/{{ $key }}">{{ $key }} {{ .Count }}</a></li>
     {{ end }}
 </ul>
 

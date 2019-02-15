@@ -2,6 +2,7 @@
 title: "Drawing More / Week of Sick"
 date: 2019-01-26T13:56:10-05:00
 draft: false 
+tags: ["illustration"]
 ---
 
 The past week was rough, with two sick kids. But I
