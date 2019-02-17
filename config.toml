@@ -1,13 +1,13 @@
 baseURL = "https://yugsnoyl.com/"
 languageCode = "en-us"
 title = "Guy Lyons - Developer"
-# theme = "pickles"
-pygmentsUseClassic = true
+theme = "noncomplex"
+# pygmentsUseClassic = true
 
-# [outputs]
-#    home = ["html", "json", "rss"]
-#    posts = ["html", "json"]
-#    page = ["html", "json"]
+[outputs]
+   home = ["html", "json", "rss"]
+   posts = ["html", "json"]
+   page = ["html", "json"]
 
 [params]
     github = "guylyons"
@@ -18,11 +18,15 @@ pygmentsUseClassic = true
     contact = "mailto:website.guy@mailhero.io"
     subtitle = "just a dev named guy"
 
-# [[menu.main]]
-#     name = "Blog"
-#     url = "/"
-#     weight = 1
 [[menu.main]]
     name = "About"
     url = "/about"
     weight = 3
+# [[menu.main]]
+#     name = "Illustration"
+#     url = "/illustration"
+#     weight = 1
+# [[menu.main]]
+#     name = "Resume"
+#     url = "/resume"
+#     weight = 1
