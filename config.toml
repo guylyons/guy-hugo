@@ -21,4 +21,8 @@ theme = "pickles"
 [[menu.main]]
     name = "About"
     url = "/about"
-    weight = 1 
+    weight = 1
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 2
