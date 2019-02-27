@@ -7,6 +7,8 @@ date: 2018-09-17 00:00:00 +0000
 
 My name is Guy, and I'm a developer working in the ever-growing little town of Portland, Maine. I currently work as the Web Systems Administrator at the University of New England.
 
+***
+
 If you'd like to reach out to me:
 
 email: [yugsnoyl.guy@mailhero.com]()
