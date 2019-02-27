@@ -12,3 +12,5 @@ fields:
 - type: datetime
   name: date
   label: Date
+pages:
+- content/posts/making-a-commitment-to-more-open-source.md
