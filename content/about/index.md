@@ -1,5 +1,5 @@
 ---
-title: About Guy
+title: About
 date: 2018-09-17 00:00:00 +0000
 
 ---
