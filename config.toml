@@ -2,7 +2,6 @@ baseURL = "https://yugsnoyl.com/"
 languageCode = "en-us"
 title = "yug snoyl"
 theme = "pickles"
-pygmentsUseClassic = true
 
 [outputs]
    home = ["html", "json", "rss"]
