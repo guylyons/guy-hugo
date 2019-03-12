@@ -1,10 +1,10 @@
 ---
-title: "Setting your Paths in Emacs"
-date: 2018-09-30T22:47:10-04:00
-draft: false 
-tags: ["emacs"]
----
+title: Setting Paths in Emacs
+date: 2018-10-01 02:47:10 +0000
+tags:
+- emacs
 
+---
 Being able to run your everyday terminal commands in Emacs is really handy, but if you haven't configured your PATH, you probably don't have access to them.
 
 Similar to the $PATH variable in Bash, in Emacs you'll need to set your 'exec-path' and your "PATH" via setenv.
