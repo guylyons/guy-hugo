@@ -1,5 +1,5 @@
 ---
-title: Setting Paths in Emacs
+title: exec-path in Emacs
 date: 2018-10-01 02:47:10 +0000
 tags:
 - emacs
