@@ -9,11 +9,11 @@
   <main id="main" class="l-main">
 
     {{ if .IsPage }}
-    {{ if .Params.hero }}
-    <section>
-      <div class="hero">
-        <img src="{{ .Params.hero }}" alt="{{ .Params.title }}">
-      </div>
-    </section>
-    {{ end }}
+      {{ if .Params.hero }}
+      <section>
+        <div class="hero">
+          <img src="{{ .Params.hero }}" alt="{{ .Params.title }}">
+        </div>
+      </section>
+      {{ end }}
     {{ end }}
