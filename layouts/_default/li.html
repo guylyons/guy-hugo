@@ -1,14 +1,13 @@
 <article class="c-article p-list-article">
-  <!-- {{ if .Params.Hero }}
+  {{ if .Params.Hero }}
     <a href="{{ .Permalink }}">
       <img src="{{ .Params.hero }}" alt="{{ .Params.title }}">
     </a>
-  {{ end }} -->
+  {{ end }}
   <a href="{{ .Permalink }}">
   <header>
     <h2 class="c-title c-article__title">{{ .Title }}</h2>
     <p class="c-article__meta">
-      Posted on
       <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
         {{ .Date.Format "Jan 2, 2006" }}
       </time>
