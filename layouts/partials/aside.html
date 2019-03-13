@@ -16,7 +16,7 @@
     </header>
 
     <section class="full-width sidebar-image">
-        <img src="/images/jimly.png" alt="jimly" width="400" height="auto">
+        <img src="/images/jimly.png" alt="jimly">
     </section>
 
     <footer class="l-footer">
@@ -24,7 +24,7 @@
         {{ partial "link.html" . }}
 
         <p class="p-copyright" style="color: #fff;">
-            Guy Lyons {{ with .Site.Copyright | safeHTML }}
+            Guy Lyons II {{ with .Site.Copyright | safeHTML }}
                 {{ . }}
             {{ else }}
                 {{ .Site.LastChange.Format "2006" }}

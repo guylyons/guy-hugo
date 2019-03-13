@@ -45,6 +45,9 @@ body {
     font-weight: bold;
 }
 .p-article a { text-decoration: underline; color: #fcb79e; }
+aside a:hover {
+    color: #fff;
+}
 a:hover {
     color: #fcb79e;
 }
