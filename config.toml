@@ -1,6 +1,6 @@
 baseURL = "https://yugsnoyl.com/"
 languageCode = "en-us"
-title = "yug snoyl"
+title = "Guy Lyons"
 theme = "pickles"
 
 [outputs]
@@ -14,8 +14,8 @@ theme = "pickles"
     twitter = "yugsnoyl"
     author = "Guy Lyons"
     avatar = "/profile.png"
-    contact = "mailto:website.guy@mailhero.io"
-    subtitle = "just a dev named guy"
+    contact = "mailto:guylyons2@gmail.com"
+    subtitle = "Developer • Illustrator"
 
 [[menu.main]]
     name = "About"
