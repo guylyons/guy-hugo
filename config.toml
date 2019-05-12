@@ -1,7 +1,8 @@
 baseURL = "https://yugsnoyl.com/"
 languageCode = "en-us"
 title = "Guy Lyons"
-theme = "pickles"
+theme = "noncomplex"
+Paginate = 4
 
 [outputs]
    home = ["html", "json", "rss"]

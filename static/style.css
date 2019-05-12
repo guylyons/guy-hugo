@@ -97,6 +97,9 @@ a { color: #000; }
 .c-article a {
   display: block;
 }
+.c-title {
+    margin: 0 !important;
+}
 
 .p-article__body {
     margin: initial;
