@@ -4,10 +4,10 @@ title = "Guy Lyons"
 theme = "noncomplex"
 Paginate = 4
 
-[outputs]
-   home = ["html", "json", "rss"]
-   posts = ["html", "json"]
-   page = ["html", "json"]
+# [outputs]
+#    home = ["html", "json", "rss"]
+#    posts = ["html", "json"]
+#    page = ["html", "json"]
 
 [params]
     github = "guylyons"
@@ -19,10 +19,9 @@ Paginate = 4
     subtitle = "Developer • Illustrator"
 
 [[menu.main]]
+    name = "Posts"
+    url = "/posts"
+[[menu.main]]
     name = "About"
     url = "/about"
     weight = 1
-[[menu.main]]
-    name = "Tags"
-    url = "/tags"
-    weight = 2
