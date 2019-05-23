@@ -4,7 +4,7 @@ go:
   - master # This uses automatically the latest version of go
 
 install:
-  - apt-get install hugo
+  - sudo apt-get install -y hugo
 
 script:
   - hugo # This commands builds your website on travis
