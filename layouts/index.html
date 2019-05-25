@@ -7,12 +7,10 @@
 	{{ end }}
     </header>
     <div class="homepage-content">
-	<!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
 	{{.Content}}
     </div>
     <div>
 	<h2>Things &amp; Thoughts</h2>
-	<!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
 	{{ range first 3 .Pages }}
 	   <article>
 	       <h3>{{ .Title }}</h3>
