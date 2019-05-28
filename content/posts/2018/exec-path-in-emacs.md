@@ -22,6 +22,12 @@ Place the above in your init.el file.
 
 For my personal workflow and habits, this allows me to minimize window hopping, and keep more of my work in Emacs, which is always a good thing.
 
+**Update:**
+
+**You can also accomplish this with a package I've found and listed below.**
+
 ### Resources
 
 https://www.emacswiki.org/emacs/ExecPath
+
+[https://github.com/purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell "https://github.com/purcell/exec-path-from-shell")
