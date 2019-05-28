@@ -1,11 +1,13 @@
 ---
-title: "Working in coffee shops"
-date: 2018-10-01T11:06:54-04:00
+title: Working in coffee shops
+date: 2018-10-01T15:06:54.000+00:00
 updated: 2018-12-29
-draft: false 
-tags: ["shell", "git"]
----
+tags:
+- shell
+- git
+draft: true
 
+---
 You sit down to your favorite coffee shop, take in an aromatic sip of your conflict-free,freshly purchased (albeit overpriced) cup of joe, and ready your commit message to push up to your repo.
 
 Then, seemingly out of nowhere, you're hit with this:
