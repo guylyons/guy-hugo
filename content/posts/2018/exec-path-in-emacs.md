@@ -20,7 +20,7 @@ Similar to the $PATH variable in Bash, in Emacs you'll need to set your 'exec-pa
 
 Place the above in your init.el file.
 
-For my personal workflow and habits, this allows me to minmize window hopping, and keep more of my work in Emacs, which is always a good thing.
+For my personal workflow and habits, this allows me to minimize window hopping, and keep more of my work in Emacs, which is always a good thing.
 
 ### Resources
 
