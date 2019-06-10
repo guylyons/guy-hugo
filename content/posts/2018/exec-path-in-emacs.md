@@ -3,6 +3,7 @@ title: exec-path in Emacs
 date: 2018-10-02T02:47:10.000+00:00
 tags:
 - emacs
+- eshell
 
 ---
 Being able to run your everyday terminal commands in eshell is really handy, but if you haven't configured **exec-shell**, you probably don't have access to them.
