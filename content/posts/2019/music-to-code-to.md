@@ -1,8 +1,8 @@
 ---
-title: "Music to code to"
+title: Lofi mixes to code to
 date: 2019-05-23
----
 
+---
 Whenever I'm coding at work, I usually put on some tunes to listen to help me focus. Here are a few good mindless
 beat driven mixes I frequent.
 
