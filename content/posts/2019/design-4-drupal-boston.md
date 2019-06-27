@@ -11,3 +11,5 @@ The workshop we did followed along this great tutorial hosted on Gitbook.
 [https://mariohernandez.gitbook.io/components/](https://mariohernandez.gitbook.io/components/ "https://mariohernandez.gitbook.io/components/")
 
 Now  back in Maine, I'll have to put some of this to use and experiment.
+
+![Design 4 Drupal](/uploads/d4d.jpg "Me at Design 4 Drupal with mediacurrent")
