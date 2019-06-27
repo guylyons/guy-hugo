@@ -1,5 +1,5 @@
 +++
-date = "2019-06-27T04:00:00+00:00"
+date = "2019-06-27T19:30:00+00:00"
 tags = ["drupal"]
 title = "Debugging Drupal 7 Templates"
 
@@ -9,10 +9,9 @@ In the world of development, I learn something new every day and today was no ex
 In all its glory, add this to your settings.local.php
 
     $conf['theme_debug'] = TRUE;
-    
 
-<iframe src="[https://giphy.com/embed/xT0GqtcVR0jOXzmmPK](https://giphy.com/embed/xT0GqtcVR0jOXzmmPK "https://giphy.com/embed/xT0GqtcVR0jOXzmmPK")" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="[https://giphy.com/gifs/nickelodeon-nick-nicktoons-harvey-beaks-xT0GqtcVR0jOXzmmPK](https://giphy.com/gifs/nickelodeon-nick-nicktoons-harvey-beaks-xT0GqtcVR0jOXzmmPK "https://giphy.com/gifs/nickelodeon-nick-nicktoons-harvey-beaks-xT0GqtcVR0jOXzmmPK")">via GIPHY</a></p>
+![](https://media.giphy.com/media/xT0GqtcVR0jOXzmmPK/source.gif)
 
-After adding this, open you your inspector and give it a hard reload to see all the commented helpers inserted. The link below provides a much better detail of this setting.
+Simple, I know, but after adding this, open you your inspector and give it a hard reload to see all the commented helpers inserted. The link below provides a much better detail of this setting.
 
 [https://www.drupal.org/docs/7/theming/overriding-themable-output/working-with-template-suggestions](https://www.drupal.org/docs/7/theming/overriding-themable-output/working-with-template-suggestions "https://www.drupal.org/docs/7/theming/overriding-themable-output/working-with-template-suggestions")
