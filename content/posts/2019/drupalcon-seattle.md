@@ -14,3 +14,5 @@ The strongest theme of the conference was accessibility, and how to decouple Dru
 This being my first, I have no context to compare it to. I heard it was somewhat smaller this year, but everyone I met was truly engaged and excited about moving to, or being on, Drupal 8.
 
 https://events.drupal.org/seattle2019
+
+![DrupalCon 2019 Seattle](/uploads/drupalcon2019.jpg "Me at DrupalCon Seattle 2019")
