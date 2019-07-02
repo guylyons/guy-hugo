@@ -12,5 +12,6 @@ fields:
   name: date
   label: Date
 pages:
+- content/posts/2019/debugging-drupal-7-templates.md
 - content/about.md
 - content/posts/2019/design-4-drupal-boston.md
