@@ -1,0 +1,7 @@
+* TODOs
+** READY add tutorials section
+** READY add 'last updated' to posts
+** READY add show/hide elements for expandable information
+   <details> and <summary> tag
+   E.g: https://nora.codes/
+
