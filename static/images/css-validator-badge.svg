@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="31px" viewBox="0 0 88 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>valid-css-blue-v</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 83 0 83 1 0 1"></polygon>
+        <polygon id="path-3" points="0 0 1 0 1 31 0 31"></polygon>
+        <polygon id="path-5" points="0 0 83 0 83 1 0 1"></polygon>
+        <polygon id="path-7" points="0.16 0.005 80.16 0.005 80.16 1.005 0.16 1.005"></polygon>
+        <polygon id="path-9" points="0 0 83 0 83 1 0 1"></polygon>
+        <polygon id="path-11" points="0 0 1 0 1 31 0 31"></polygon>
+        <polygon id="path-13" points="0 0 83 0 83 1 0 1"></polygon>
+        <polygon id="path-15" points="0.806 0 1.806 0 1.806 30 0.806 30"></polygon>
+        <polygon id="path-17" points="0 0 83 0 83 1 0 1"></polygon>
+        <polygon id="path-19" points="0.16 0.005 80.16 0.005 80.16 1.005 0.16 1.005"></polygon>
+        <polygon id="path-21" points="0 0 83 0 83 1 0 1"></polygon>
+        <polygon id="path-23" points="0 0 1 0 1 31 0 31"></polygon>
+        <polygon id="path-25" points="0 0 83 0 83 1 0 1"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="valid-css-blue-v">
+            <g id="Group">
+                <polygon id="Path" points="0 0 88 0 88 31 0 31"></polygon>
+            </g>
+            <g id="Group" fill="#B3CEE1" fill-rule="nonzero">
+                <polygon id="Path" points="0 0 83 0 83 31 0 31"></polygon>
+            </g>
+            <g id="Group" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Path" points="0.365 0 36.809 0 36.809 31 0.365 31"></polygon>
+            </g>
+            <g id="Group" transform="translate(4.000000, 2.000000)">
+                <polygon id="Path" points="0.692 0.291 40.697 0.291 40.697 24.897 0.692 24.897"></polygon>
+            </g>
+            <g id="Group" transform="translate(0.000000, 30.000000)">
+                <g id="XMLID_640_-link" fill="#504D4C" fill-rule="nonzero">
+                    <polygon id="XMLID_640_" points="0 0 83 0 83 1 0 1"></polygon>
+                </g>
+                <g id="Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="XMLID_640_"></g>
+                    <g id="Group" mask="url(#mask-2)">
+                        <g transform="translate(0.000000, -30.000000)">
+                            <g>
+                                <polygon id="Path" points="0 0 88 0 88 31 0 31"></polygon>
+                            </g>
+                            <g>
+                                <polygon id="Path" fill="#48494B" fill-rule="nonzero" points="0 0 83 0 83 31 0 31"></polygon>
+                            </g>
+                            <g>
+                                <polygon id="Path" fill="#4F4F4F" fill-rule="nonzero" points="0.365 0 36.809 0 36.809 31 0.365 31"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(82.000000, 0.000000)">
+                <g id="XMLID_642_-link" fill="#504D4C" fill-rule="nonzero">
+                    <polygon id="XMLID_642_" points="0 0 1 0 1 31 0 31"></polygon>
+                </g>
+                <g id="Clipped">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="XMLID_642_"></g>
+                    <g id="Group" mask="url(#mask-4)">
+                        <g transform="translate(-82.000000, 0.000000)">
+                            <g>
+                                <polygon id="Path" points="0 0 88 0 88 31 0 31"></polygon>
+                            </g>
+                            <g>
+                                <polygon id="Path" fill="#48494B" fill-rule="nonzero" points="0 0 83 0 83 31 0 31"></polygon>
+                            </g>
+                            <g transform="translate(0.000000, 30.000000)">
+                                <g id="XMLID_644_-link" fill="#191919" fill-rule="nonzero">
+                                    <polygon id="XMLID_644_" points="0 0 83 0 83 1 0 1"></polygon>
+                                </g>
+                                <g id="Clipped">
+                                    <mask id="mask-6" fill="white">
+                                        <use xlink:href="#path-5"></use>
+                                    </mask>
+                                    <g id="XMLID_644_"></g>
+                                    <g id="Group" mask="url(#mask-6)">
+                                        <g transform="translate(0.000000, -30.000000)">
+                                            <g>
+                                                <polygon id="Path" points="0 0 88 0 88 31 0 31"></polygon>
+                                            </g>
+                                            <g>
+                                                <polygon id="Path" fill="#181818" fill-rule="nonzero" points="0 0 83 0 83 31 0 31"></polygon>
+                                            </g>
+                                            <g>
+                                                <polygon id="Path" fill="#191919" fill-rule="nonzero" points="0.365 0 36.809 0 36.809 31 0.365 31"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" fill="#CCCCCC" fill-rule="nonzero">
+                <polygon id="Path" points="0 0 1 0 1 31 0 31"></polygon>
+            </g>
+            <g id="Group" transform="translate(2.000000, 29.000000)">
+                <g id="XMLID_646_-link" fill="#9E9C9C" fill-rule="nonzero">
+                    <polygon id="XMLID_646_" points="0.16 0.005 80.16 0.005 80.16 1.005 0.16 1.005"></polygon>
+                </g>
+                <g id="Clipped">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="XMLID_646_"></g>
+                    <g id="Group" mask="url(#mask-8)">
+                        <g transform="translate(-2.000000, -29.000000)">
+                            <g>
+                                <polygon id="Path" points="0 0 88 0 88 31 0 31"></polygon>
+                            </g>
+                            <g>
+                                <polygon id="Path" fill="#9097A0" fill-rule="nonzero" points="0 0 83 0 83 31 0 31"></polygon>
+                            </g>
+                            <g>
+                                <polygon id="Path" fill="#B5B5B5" fill-rule="nonzero" points="0.365 0 36.809 0 36.809 31 0.365 31"></polygon>
+                            </g>
+                            <g transform="translate(0.000000, 30.000000)">
+                                <g id="XMLID_648_-link" fill="#383838" fill-rule="nonzero">
+                                    <polygon id="XMLID_648_" points="0 0 83 0 83 1 0 1"></polygon>
+                                </g>
+                                <g id="Clipped">
+                                    <mask id="mask-10" fill="white">
+                                        <use xlink:href="#path-9"></use>
+                                    </mask>
+                                    <g id="XMLID_648_"></g>
+                                    <g id="Group" mask="url(#mask-10)">
+                                        <g transform="translate(0.000000, -30.000000)">
+                                            <g>
+                                                <polygon id="Path" points="0 0 88 0 88 31 0 31"></polygon>
+                                            </g>
+                                            <g>
+                                                <polygon id="Path" fill="#343536" fill-rule="nonzero" points="0 0 83 0 83 31 0 31"></polygon>
+                                            </g>
+                                            <g>
+                                                <polygon id="Path" fill="#383838" fill-rule="nonzero" points="0.365 0 36.809 0 36.809 31 0.365 31"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(82.000000, 0.000000)">
+                                <g id="XMLID_650_-link" fill="#383838" fill-rule="nonzero">
+                                    <polygon id="XMLID_650_" points="0 0 1 0 1 31 0 31"></polygon>
+                                </g>
+                                <g id="Clipped">
+                                    <mask id="mask-12" fill="white">
+                                        <use xlink:href="#path-11"></use>
+                                    </mask>
+                                    <g id="XMLID_650_"></g>
+                                    <g id="Group" mask="url(#mask-12)">
+                                        <g transform="translate(-82.000000, 0.000000)">
+                                            <g>
+                                                <polygon id="Path" points="0 0 88 0 88 31 0 31"></polygon>
+                                            </g>
+                                            <g>
+                                                <polygon id="Path" fill="#343536" fill-rule="nonzero" points="0 0 83 0 83 31 0 31"></polygon>
+                                            </g>
+                                            <g transform="translate(0.000000, 30.000000)">
+                                                <g id="XMLID_652_-link" fill="#131313" fill-rule="nonzero">
+                                                    <polygon id="XMLID_652_" points="0 0 83 0 83 1 0 1"></polygon>
+                                                </g>
+                                                <g id="Clipped">
+                                                    <mask id="mask-14" fill="white">
+                                                        <use xlink:href="#path-13"></use>
+                                                    </mask>
+                                                    <g id="XMLID_652_"></g>
+                                                    <g id="Group" mask="url(#mask-14)">
+                                                        <g transform="translate(0.000000, -30.000000)">
+                                                            <g>
+                                                                <polygon id="Path" points="0 0 88 0 88 31 0 31"></polygon>
+                                                            </g>
+                                                            <g>
+                                                                <polygon id="Path" fill="#131313" fill-rule="nonzero" points="0 0 83 0 83 31 0 31"></polygon>
+                                                            </g>
+                                                            <g>
+                                                                <polygon id="Path" fill="#131313" fill-rule="nonzero" points="0.365 0 36.809 0 36.809 31 0.365 31"></polygon>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(80.000000, 1.000000)">
+                <g id="XMLID_654_-link" fill="#9E9C9C" fill-rule="nonzero">
+                    <polygon id="XMLID_654_" points="0.806 0 1.806 0 1.806 30 0.806 30"></polygon>
+                </g>
+                <g id="Clipped">
+                    <mask id="mask-16" fill="white">
+                        <use xlink:href="#path-15"></use>
+                    </mask>
+                    <g id="XMLID_654_"></g>
+                    <g id="Group" mask="url(#mask-16)">
+                        <g transform="translate(-80.000000, -1.000000)">
+                            <g>
+                                <polygon id="Path" points="0 0 88 0 88 31 0 31"></polygon>
+                            </g>
+                            <g>
+                                <polygon id="Path" fill="#9097A0" fill-rule="nonzero" points="0 0 83 0 83 31 0 31"></polygon>
+                            </g>
+                            <g transform="translate(0.000000, 30.000000)">
+                                <g id="XMLID_656_-link" fill="#383838" fill-rule="nonzero">
+                                    <polygon id="XMLID_656_" points="0 0 83 0 83 1 0 1"></polygon>
+                                </g>
+                                <g id="Clipped">
+                                    <mask id="mask-18" fill="white">
+                                        <use xlink:href="#path-17"></use>
+                                    </mask>
+                                    <g id="XMLID_656_"></g>
+                                    <g id="Group" mask="url(#mask-18)">
+                                        <g transform="translate(0.000000, -30.000000)">
+                                            <g>
+                                                <polygon id="Path" points="0 0 88 0 88 31 0 31"></polygon>
+                                            </g>
+                                            <g>
+                                                <polygon id="Path" fill="#343536" fill-rule="nonzero" points="0 0 83 0 83 31 0 31"></polygon>
+                                            </g>
+                                            <g>
+                                                <polygon id="Path" fill="#383838" fill-rule="nonzero" points="0.365 0 36.809 0 36.809 31 0.365 31"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(2.000000, 29.000000)">
+                                <g id="XMLID_658_-link" fill="#818181" fill-rule="nonzero">
+                                    <polygon id="XMLID_658_" points="0.16 0.005 80.16 0.005 80.16 1.005 0.16 1.005"></polygon>
+                                </g>
+                                <g id="Clipped">
+                                    <mask id="mask-20" fill="white">
+                                        <use xlink:href="#path-19"></use>
+                                    </mask>
+                                    <g id="XMLID_658_"></g>
+                                    <g id="Group" mask="url(#mask-20)">
+                                        <g transform="translate(-2.000000, -29.000000)">
+                                            <g>
+                                                <polygon id="Path" points="0 0 88 0 88 31 0 31"></polygon>
+                                            </g>
+                                            <g>
+                                                <polygon id="Path" fill="#6E7176" fill-rule="nonzero" points="0 0 83 0 83 31 0 31"></polygon>
+                                            </g>
+                                            <g>
+                                                <polygon id="Path" fill="#818181" fill-rule="nonzero" points="0.365 0 36.809 0 36.809 31 0.365 31"></polygon>
+                                            </g>
+                                            <g transform="translate(0.000000, 30.000000)">
+                                                <g id="XMLID_660_-link" fill="#272727" fill-rule="nonzero">
+                                                    <polygon id="XMLID_660_" points="0 0 83 0 83 1 0 1"></polygon>
+                                                </g>
+                                                <g id="Clipped">
+                                                    <mask id="mask-22" fill="white">
+                                                        <use xlink:href="#path-21"></use>
+                                                    </mask>
+                                                    <g id="XMLID_660_"></g>
+                                                    <g id="Group" mask="url(#mask-22)">
+                                                        <g transform="translate(0.000000, -30.000000)">
+                                                            <g>
+                                                                <polygon id="Path" points="0 0 88 0 88 31 0 31"></polygon>
+                                                            </g>
+                                                            <g>
+                                                                <polygon id="Path" fill="#252626" fill-rule="nonzero" points="0 0 83 0 83 31 0 31"></polygon>
+                                                            </g>
+                                                            <g>
+                                                                <polygon id="Path" fill="#272727" fill-rule="nonzero" points="0.365 0 36.809 0 36.809 31 0.365 31"></polygon>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g transform="translate(82.000000, 0.000000)">
+                                                <g id="XMLID_662_-link" fill="#272727" fill-rule="nonzero">
+                                                    <polygon id="XMLID_662_" points="0 0 1 0 1 31 0 31"></polygon>
+                                                </g>
+                                                <g id="Clipped">
+                                                    <mask id="mask-24" fill="white">
+                                                        <use xlink:href="#path-23"></use>
+                                                    </mask>
+                                                    <g id="XMLID_662_"></g>
+                                                    <g id="Group" mask="url(#mask-24)">
+                                                        <g transform="translate(-82.000000, 0.000000)">
+                                                            <g>
+                                                                <polygon id="Path" points="0 0 88 0 88 31 0 31"></polygon>
+                                                            </g>
+                                                            <g>
+                                                                <polygon id="Path" fill="#252626" fill-rule="nonzero" points="0 0 83 0 83 31 0 31"></polygon>
+                                                            </g>
+                                                            <g transform="translate(0.000000, 30.000000)">
+                                                                <g id="XMLID_664_-link" fill="#101010" fill-rule="nonzero">
+                                                                    <polygon id="XMLID_664_" points="0 0 83 0 83 1 0 1"></polygon>
+                                                                </g>
+                                                                <g id="Clipped">
+                                                                    <mask id="mask-26" fill="white">
+                                                                        <use xlink:href="#path-25"></use>
+                                                                    </mask>
+                                                                    <g id="XMLID_664_"></g>
+                                                                    <g id="Group" mask="url(#mask-26)">
+                                                                        <g transform="translate(0.000000, -30.000000)">
+                                                                            <g>
+                                                                                <polygon id="Path" points="0 0 88 0 88 31 0 31"></polygon>
+                                                                            </g>
+                                                                            <g>
+                                                                                <polygon id="Path" fill="#101010" fill-rule="nonzero" points="0 0 83 0 83 31 0 31"></polygon>
+                                                                            </g>
+                                                                            <g>
+                                                                                <polygon id="Path" fill="#101010" fill-rule="nonzero" points="0.365 0 36.809 0 36.809 31 0.365 31"></polygon>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" fill="#CCCCCC" fill-rule="nonzero">
+                <polygon id="Path" points="0 0 83 0 83 1 0 1"></polygon>
+            </g>
+            <polyline id="Path" stroke="#005A9C" stroke-width="4.8117" points="68.273 18.844 74.291 24.348 86.001 12.637"></polyline>
+            <g id="Group" transform="translate(39.000000, 11.000000)" fill="#000000" fill-rule="nonzero">
+                <path d="M6.772,7.318 C6.427,7.497 6.067,7.632 5.693,7.724 C5.318,7.815 4.928,7.86 4.521,7.86 C3.307,7.86 2.345,7.522 1.635,6.845 C0.925,6.164 0.571,5.243 0.571,4.081 C0.571,2.916 0.925,1.995 1.635,1.318 C2.344,0.637 3.306,0.297 4.521,0.297 C4.928,0.297 5.318,0.342 5.693,0.434 C6.067,0.525 6.427,0.66 6.772,0.839 L6.772,2.347 C6.423,2.11 6.08,1.935 5.742,1.825 C5.403,1.714 5.047,1.659 4.673,1.659 C4.002,1.659 3.475,1.874 3.091,2.304 C2.707,2.734 2.515,3.326 2.515,4.081 C2.515,4.833 2.707,5.424 3.091,5.854 C3.475,6.284 4.002,6.498 4.673,6.498 C5.047,6.498 5.403,6.443 5.742,6.332 C6.08,6.221 6.424,6.047 6.772,5.81 L6.772,7.318 Z" id="Path"></path>
+                <path d="M13.502,0.658 L13.502,2.201 C13.102,2.022 12.711,1.887 12.33,1.796 C11.949,1.705 11.589,1.659 11.251,1.659 C10.802,1.659 10.47,1.721 10.255,1.845 C10.04,1.969 9.933,2.16 9.933,2.421 C9.933,2.616 10.005,2.769 10.148,2.88 C10.294,2.987 10.558,3.08 10.939,3.158 L11.74,3.319 C12.551,3.482 13.127,3.729 13.469,4.061 C13.811,4.393 13.982,4.865 13.982,5.477 C13.982,6.281 13.743,6.88 13.264,7.274 C12.789,7.665 12.061,7.859 11.081,7.859 C10.619,7.859 10.155,7.816 9.689,7.728 C9.224,7.64 8.758,7.51 8.293,7.337 L8.293,5.75 C8.759,5.997 9.208,6.184 9.641,6.312 C10.078,6.436 10.497,6.497 10.901,6.497 C11.311,6.497 11.626,6.429 11.843,6.292 C12.061,6.155 12.17,5.96 12.17,5.706 C12.17,5.478 12.095,5.302 11.945,5.179 C11.799,5.055 11.504,4.945 11.061,4.846 L10.333,4.685 C9.604,4.529 9.07,4.279 8.731,3.937 C8.396,3.595 8.228,3.135 8.228,2.556 C8.228,1.83 8.462,1.272 8.931,0.881 C9.4,0.49 10.074,0.295 10.952,0.295 C11.352,0.295 11.765,0.326 12.187,0.388 C12.612,0.448 13.05,0.538 13.502,0.658 Z" id="Path"></path>
+                <path d="M20.805,0.658 L20.805,2.201 C20.405,2.022 20.014,1.887 19.633,1.796 C19.252,1.705 18.892,1.659 18.554,1.659 C18.105,1.659 17.773,1.721 17.558,1.845 C17.343,1.969 17.236,2.16 17.236,2.421 C17.236,2.616 17.308,2.769 17.451,2.88 C17.597,2.987 17.861,3.08 18.242,3.158 L19.043,3.319 C19.854,3.482 20.43,3.729 20.772,4.061 C21.114,4.393 21.285,4.865 21.285,5.477 C21.285,6.281 21.046,6.88 20.567,7.274 C20.092,7.665 19.364,7.859 18.384,7.859 C17.922,7.859 17.458,7.816 16.992,7.728 C16.526,7.64 16.061,7.51 15.596,7.337 L15.596,5.75 C16.061,5.997 16.511,6.184 16.944,6.312 C17.38,6.436 17.8,6.497 18.204,6.497 C18.614,6.497 18.928,6.429 19.146,6.292 C19.364,6.155 19.473,5.96 19.473,5.706 C19.473,5.478 19.398,5.302 19.248,5.179 C19.102,5.055 18.807,4.945 18.364,4.846 L17.636,4.685 C16.907,4.529 16.373,4.279 16.034,3.937 C15.699,3.595 15.531,3.135 15.531,2.556 C15.531,1.83 15.765,1.272 16.234,0.881 C16.703,0.49 17.377,0.295 18.255,0.295 C18.655,0.295 19.067,0.326 19.49,0.388 C19.915,0.448 20.352,0.538 20.805,0.658 Z" id="Path"></path>
+            </g>
+            <g id="Group" transform="translate(3.000000, 7.000000)" fill-rule="nonzero">
+                <g transform="translate(22.000000, 0.000000)" fill="#000000" id="Path">
+                    <path d="M8.077,0.037 L8.411,2.071 L7.226,4.337 C7.226,4.337 6.771,3.376 6.016,2.844 C5.38,2.395 4.965,2.298 4.317,2.432 C3.484,2.603 2.54,3.599 2.128,4.827 C1.635,6.296 1.63,7.006 1.613,7.66 C1.586,8.706 1.75,9.325 1.75,9.325 C1.75,9.325 1.031,7.994 1.03794922,6.046 C1.043,4.655 1.261,3.394 1.905,2.15 C2.471,1.056 3.313,0.399 4.059,0.322 C4.831,0.242 5.441,0.614 5.913,1.017 C6.408,1.44 6.909,2.364 6.909,2.364 L8.077,0.037 Z"></path>
+                    <path d="M8.222,11.546 C8.222,11.546 7.699,12.482 7.372,12.842 C7.046,13.202 6.462,13.838 5.741,14.155 C5.02,14.472 4.642,14.532 3.93,14.464 C3.218,14.395 2.556,13.983 2.325,13.812 C2.093,13.64 1.501,13.134 1.166,12.662 C0.831,12.19 0.308,11.245 0.308,11.245 C0.308,11.245 0.6,12.191 0.782,12.593 C0.887,12.824 1.21,13.531 1.668,14.146 C2.095,14.72 2.925,15.708 4.187,15.932 C5.449,16.155 6.315,15.588 6.53,15.451 C6.744,15.314 7.197,14.935 7.483,14.629 C7.782,14.309 8.065,13.901 8.221,13.657 C8.335,13.479 8.522,13.116 8.522,13.116 L8.222,11.546 Z"></path>
+                </g>
+                <g fill="#005A9C" id="Path">
+                    <polygon points="8.437 0.127 11.289 9.825 14.141 0.127 16.206 0.127 11.486 16.06 11.289 16.06 8.338 6.185 5.388 16.06 5.191 16.06 0.47 0.127 2.535 0.127 5.387 9.825 7.315 3.294 6.372 0.127"></polygon>
+                    <path d="M22.072,10.946 C22.072,12.389 21.688,13.602 20.921,14.586 C20.154,15.569 19.161,16.061 17.941,16.061 C17.023,16.061 16.223,15.769 15.541,15.186 C14.859,14.603 14.354,13.812 14.026,12.815 L15.639,12.147 C15.875,12.751 16.187,13.226 16.574,13.573 C16.961,13.921 17.417,14.094 17.941,14.094 C18.492,14.094 18.957,13.786 19.338,13.17 C19.719,12.554 19.909,11.813 19.909,10.947 C19.909,9.99 19.705,9.249 19.299,8.724 C18.827,8.108 18.085,7.8 17.076,7.8 L16.289,7.8 L16.289,6.856 L19.043,2.095 L15.718,2.095 L14.793,3.669 L14.203,3.669 L14.203,0.127 L21.875,0.127 L21.875,1.091 L18.963,6.107 C19.986,6.435 20.76,7.032 21.284,7.898 C21.809,8.763 22.072,9.779 22.072,10.946 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

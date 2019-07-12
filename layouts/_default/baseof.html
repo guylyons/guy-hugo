@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>{{ block "title" . }} {{ .Site.Title }} {{ end }}</title>
+    {{ $style := resources.Get "main.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}" type="text/css" />
+    <link href="/css/guy.css" rel="stylesheet"/>
+  </head>
+  <body>
+    <div class="container">
+      {{ block "header" . }}
+      <header class="header">
+        <a href="/">
+          {{ .Site.Title }}
+        </a>
+        {{ partial "header.html" . }}
+      </header>
+      {{ end }}
+
+      <main>
+      {{ block "main" . }}
+      {{ end }}
+      </main>
+
+      {{ block "footer" . }}
+      {{ partial "footer.html" . }}
+      {{ end }}
+    </div>
+  </body>
+</html>
