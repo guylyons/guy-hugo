@@ -1,6 +1,14 @@
-.grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 20px;
+@media (min-width: 800px) {
+
+    .grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 20px;
+    }
+
+}
+
+footer {
+    margin-top: 5em;
 }
 
