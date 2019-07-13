@@ -31,4 +31,4 @@ For my personal workflow and habits, this allows me to minimize window hopping, 
 
 https://www.emacswiki.org/emacs/ExecPath
 
-[https://github.com/purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell "https://github.com/purcell/exec-path-from-shell")
+[https://github.com/purcell/exec-path-from-shell]("https://github.com/purcell/exec-path-from-shell")
