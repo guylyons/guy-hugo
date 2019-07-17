@@ -1,7 +1,7 @@
 ---
 title: "Vim It All"
 date: 2019-07-16T09:11:32-04:00
-draft: true
+draft: false 
 ---
 
 In the *nix world, Vim is everywhere. And so there's a really big payoff for taking the time to learn modal style editing and become really familiar with its keybindings.
@@ -19,6 +19,8 @@ But it doesn't stop at Emacs, I use Vim keybindings everywhere.
 [Vim Vixen for Firefox](https://addons.mozilla.org/en-US/firefox/addon/vim-vixen/)
 
 [evil-mode for Emacs](https://github.com/emacs-evil/evil "Evil Mode for Emacs")
+
+[Evil Guide](https://github.com/noctuid/evil-guide)
 
 Going from editor to browser and still being able to maintain the same workflow for
 moving around is extremely efficient.
