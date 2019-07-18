@@ -1,3 +1,5 @@
+* Articles
+  https://two-wrongs.com/why-you-should-buy-into-the-emacs-platform
 * TODOs
 ** READY add tutorials section
 ** READY add 'last updated' to posts
