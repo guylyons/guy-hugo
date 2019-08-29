@@ -1,5 +1,5 @@
 ---
-title: "Vim It All"
+title: "Using Vim Everywhere"
 date: 2019-07-16T09:11:32-04:00
 draft: false 
 ---

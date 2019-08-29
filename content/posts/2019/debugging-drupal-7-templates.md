@@ -2,6 +2,7 @@
 date = "2019-06-27T19:30:00+00:00"
 tags = ["drupal", "d7"]
 title = "Debugging Drupal 7 Templates"
+draft = true
 
 +++
 In the world of development, I learn something new every day and today was no exception. While I knew Drupal 8 had some handy features for debugging twig templates, which proves extremely helpful with assessing template hierarchy, I had no clue that this was also available in D7 as of 7.33.
