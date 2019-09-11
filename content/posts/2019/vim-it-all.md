@@ -8,7 +8,7 @@ I use both Emacs and Vim regularly and I try to incorporate Vim keybindings for 
 editor very efficient, and avoids a lot of the RSI associated with the default keybindings
 configured in Emacs. 
 
-Here are some extensions and plugins I use to include Vim everywhere on my machine:
+Here are some extensions and plugins I use to include Vim keybindings on my machine:
 
 ## Web Browser
 
