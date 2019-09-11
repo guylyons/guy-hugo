@@ -5,7 +5,7 @@ draft: false
 ---
 
 I use both Emacs and Vim regularly and I try to incorporate Vim keybindings for nearly everything I do. It makes switching from browser to
-editor very efficient, and avoids a lot of the RSI issues associated with the default keybindings
+editor very efficient, and avoids a lot of the RSI associated with the default keybindings
 configured in Emacs. 
 
 Here are some extensions and plugins I use to include Vim everywhere on my machine:
