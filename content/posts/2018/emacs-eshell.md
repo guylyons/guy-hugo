@@ -6,7 +6,7 @@ tags:
 - eshell
 
 ---
-Eshell is the Emacs terminal emulator written 100% in elisp. It's much faster than ansi-term or sane-term, and has some added benefits other than just speed[^1].
+Eshell is the Emacs terminal emulator written 100% in elisp. It's much faster than ansi-term or sane-term, and has some added benefits other than just speed.
 
 If your on a Mac, you might not have access to some of the command you do in BASH, because you need to configure
 your exec-path. Similar to the $PATH variable in BASH, exec-path is a user defined value in Emacs that can take
@@ -21,7 +21,7 @@ an array of directories that you want to expose for executing their binaries.
 (setq exec-path (append exec-path '("/usr/local/bin")))
 {{< /highlight >}}
 
-While this solution works just fine, there is also a package "exec-path-from-shell"[^2]
+While this solution works just fine, there is also a package "exec-path-from-shell"
 that is a bit more automatic.
 
 ### Resources
@@ -30,6 +30,6 @@ https://www.emacswiki.org/emacs/ExecPath
 
 http://ergoemacs.org/emacs/eshell.html
 
-[^1]: https://www.masteringemacs.org/article/complete-guide-mastering-eshell
+https://www.masteringemacs.org/article/complete-guide-mastering-eshell
 
-[^2]: https://github.com/purcell/exec-path-from-shell
+https://github.com/purcell/exec-path-from-shell
