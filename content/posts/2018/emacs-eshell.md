@@ -28,6 +28,6 @@ that is a bit more automatic.
 
 https://www.emacswiki.org/emacs/ExecPath
 
-[^1] https://www.masteringemacs.org/article/complete-guide-mastering-eshell
+[^1]: https://www.masteringemacs.org/article/complete-guide-mastering-eshell
 
-[^2] https://github.com/purcell/exec-path-from-shell
+[^2]: https://github.com/purcell/exec-path-from-shell
