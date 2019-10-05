@@ -15,3 +15,10 @@ footer {
     margin-top: 5em;
 }
 
+.meta {
+    border: 2px solid #ccbfb5;
+    background: #fff;
+    padding: 2px 8px;
+    font-size: 12px;
+    font-weight: 700;
+}
