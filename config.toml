@@ -17,8 +17,8 @@ Paginate = 8
     name = "Home"
     url = "/"
 [[menu.main]]
-    name = "Posts"
-    url = "/posts"
+    # name = "Posts"
+    # url = "/posts"
 # [[menu.main]]
 #     name = "About"
 #     url = "/about"
