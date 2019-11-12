@@ -1,5 +1,6 @@
 * Articles
   https://two-wrongs.com/why-you-should-buy-into-the-emacs-platform
+  https://codeahoy.com/2016/04/30/do-experienced-programmers-use-google-frequently/
 * TODOs
 ** READY add tutorials section
 ** READY add 'last updated' to posts
