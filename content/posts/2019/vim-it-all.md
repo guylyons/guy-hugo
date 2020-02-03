@@ -10,14 +10,17 @@ configured in Emacs.
 
 Here are some extensions and plugins I use to include Vim keybindings on my machine:
 
-## Web Browser
+## Web
 
 * [Vimium for Chrome](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en "Vimium for Chrome")
 * [Vim Vixen for Firefox](https://addons.mozilla.org/en-US/firefox/addon/vim-vixen/)
 
-## Evil Mode
+## Emacs
 
 * [evil-mode for Emacs](https://github.com/emacs-evil/evil "Evil Mode for Emacs")
 * [Evil Guide](https://github.com/noctuid/evil-guide)
+
+## VS Code
+
 * [Vim for Visual Studio Code](https://github.com/VSCodeVim/Vim)
 
