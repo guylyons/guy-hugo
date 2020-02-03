@@ -14,8 +14,8 @@ Paginate = 8
     subtitle = "Developer • Illustrator"
 
 [[menu.main]]
-    # name = "Home"
-    # url = "/"
+    name = "Home"
+    url = "/"
 [[menu.main]]
     # name = "Posts"
     # url = "/posts"
