@@ -2,12 +2,16 @@
 date = "2019-06-27T19:30:00+00:00"
 tags = ["drupal", "d7"]
 title = "Debugging Drupal 7 Templates"
-draft = true
+draft = false
 
 +++
-In the world of development, I learn something new every day and today was no exception. While I knew Drupal 8 had some handy features for debugging twig templates, which proves extremely helpful with assessing template hierarchy, I had no clue that this was also available in D7 as of 7.33.
+Drupal 7.33 introduced the ability to add helpful comments to your source code for
+better debugging of your templates. This is similar to how it now works in Drupal 8
+with inspecting your Twig templates. I hadn't known about this feature until quite
+recently, and since I still maintain some Drupal 7 sites, this feature is incredibly
+helpful when trying to debug a template.
 
-In all its glory, add this to your settings.local.php
+Add this line to your settings.local.php and then clear cache.
 
     $conf['theme_debug'] = TRUE;
 
