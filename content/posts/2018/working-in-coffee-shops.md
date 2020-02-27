@@ -5,7 +5,7 @@ updated: 2018-12-29
 tags:
 - shell
 - git
-draft: true
+draft: false
 
 ---
 You sit down to your favorite coffee shop, take in an aromatic sip of your conflict-free,freshly purchased (albeit overpriced) cup of joe, and ready your commit message to push up to your repo.
