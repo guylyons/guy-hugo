@@ -1,21 +1,21 @@
 <rss version="2.0">
     <channel>
         <title>TEST FEED for the UNE Emergency Response System</title>
-        <link>http://rss.blackboardconnect.com/139217/test/feed.xml</link>
+        <link>https://yugsnoyl.com/test.xml</link>
         <description>This is a test feed. If you are seeing this message, the test feed is active.</description>
         <lastBuildDate>Wed, 5 Feb 2020 16:26:26 GMT</lastBuildDate>
         <language>en-Us</language>
         <image>
-            <url>https://www.blackboardconnected.com/images/institutionlogos/logo_139217.jpg</url>
+            <url>https://example.com</url>
             <title>TEST FEED for the UNE Emergency Response System</title>
-            <link>http://rss.blackboardconnect.com/139217/test/feed.xml</link>
+            <link>https://yugsnoyl.com/test.xml</link>
         </image>
-        <atom:link rel="self" type="application/rss+xml" href="http://rss.blackboardconnect.com/139217/test/feed.xml" 
+        <atom:link rel="self" type="application/rss+xml" href="http://yugsnoyl.com/139217/test/feed.xml" 
             xmlns:atom="http://www.w3.org/2005/Atom" />
         <item>
-            <guid isPermaLink="false">http://rss.blackboardconnect.com/139217/test/14022221.xml</guid>
+            <guid isPermaLink="false">https://yugsnoyl.com/test.xml</guid>
             <title>TEST: title attribute</title>
-            <link>http://rss.blackboardconnect.com/139217/test/14022221.xml</link>
+            <link>https://yugsnoyl.com/test.xml</link>
             <description>TEST: description attribute.</description>
             <pubDate>Wed, 5 Feb 2020 16:26:26 GMT</pubDate>
         </item>
