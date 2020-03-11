@@ -17,10 +17,15 @@ pygmentsUseClasses=true
 [[menu.main]]
     name = "Home"
     url = "/"
+    weight = 1
 [[menu.main]]
     name = "Posts"
     url = "/posts"
+    weight = 2
+[[menu.main]]
+    name = "Tutorials"
+    url = "/tutorials"
 # [[menu.main]]
-#     name = "About"
-#     url = "/about"
-    # weight = 1
+#    name = "Art"
+#    url = "/art"
+#   weight = 3
