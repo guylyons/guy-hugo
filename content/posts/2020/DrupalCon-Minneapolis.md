@@ -4,6 +4,8 @@ date: 2020-03-09T07:53:41-04:00
 draft: false
 ---
 
+![Drupal Coronavirus](/posts/2020/drupal-corona.png)
+
 Well, DrupalCon in Minneapolis is in May, and I WAS looking forward to this, but with
 the state of illness around the world, I'm starting to think this might not happen this year.
 
