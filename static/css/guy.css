@@ -3,33 +3,33 @@ body {
 
 @media (min-width: 800px) {
 
-    .grid {
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	grid-gap: 20px;
-    }
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+  }
 
 }
 
 footer {
-    margin-top: 5em;
+  margin-top: 5em;
 }
 
 pre {
-    background: #efefef;
-    padding: 1em;
-    overflow-x: scroll;
-    overflow-y: hidden;
-    color: #000;
-    position: relative;
+  background: #efefef;
+  padding: 1em;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  color: #000;
+  position: relative;
 }
 pre::before {
-    content: "code";
-    border: 2px solid;
-    padding: 2px;
-    position: absolute;
-    right: 0;
-    top: 0;
-    font-size: 12px;
+  content: "code";
+  border: 2px solid;
+  padding: 2px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 12px;
 }
 
