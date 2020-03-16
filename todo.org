@@ -9,3 +9,5 @@
    E.g: https://nora.codes/
 
    
+** TODO Create an endpoint for handling upload of images to art 
+https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Taking_still_photos
