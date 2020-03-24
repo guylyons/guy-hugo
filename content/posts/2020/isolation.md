@@ -1,7 +1,7 @@
 ---
 title: "Life in Self-Isolation"
 date: 2020-03-18T08:28:59-04:00
-draft: true
+draft: false
 ---
 
 I can barely belive my last post was wondering whether or not DrupalCon was going to be thing or not.
