@@ -22,9 +22,9 @@ pygmentsUseClasses=true
     name = "Posts"
     url = "/posts"
     weight = 2
-[[menu.main]]
-    name = "Tutorials"
-    url = "/tutorials"
+# [[menu.main]]
+#     name = "Tutorials"
+#     url = "/tutorials"
 # [[menu.main]]
 #    name = "Art"
 #    url = "/art"
