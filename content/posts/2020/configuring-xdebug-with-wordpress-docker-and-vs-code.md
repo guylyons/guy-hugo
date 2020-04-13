@@ -9,6 +9,8 @@ Sometimes configuration for debugging your stack can be a pain.
 
 Explain how to configure the Dockerfile
 
+also maybe this: [https://github.com/JPeer264/wordpress-docker-vscode-xdebug-boilerplate/blob/master/.docker/cms/Dockerfile](https://github.com/JPeer264/wordpress-docker-vscode-xdebug-boilerplate/blob/master/.docker/cms/Dockerfile "https://github.com/JPeer264/wordpress-docker-vscode-xdebug-boilerplate/blob/master/.docker/cms/Dockerfile")
+
     FROM wordpress:latest
     MAINTAINER guylyons2@gmail.com
     
@@ -21,7 +23,6 @@ Explain how to configure the Dockerfile
         && echo "xdebug.profiler_output_name=cachegrind.out.%t" >> /usr/local/etc/php/conf.d/xdebug.ini \
         && echo "xdebug.profiler_output_dir=/tmp" >> /usr/local/etc/php/conf.d/xdebug.ini \
         && rm -rf /usr/local/etc/php/conf.d/opcache-recommended.ini
-    
 
 Explain how to configure VS Code
 
