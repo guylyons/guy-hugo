@@ -4,6 +4,8 @@ tags = ["docker", "mysql", "mariadb"]
 title = "Importing a database into a Docker container"
 
 +++
+![](/uploads/shutterstock_1378652867.jpg)
+
 Importing a database into a running MariaDB/MySQL container is a straight forward process.
 
 Before you begin, open up you MySQL CLI and provision an empty database.
