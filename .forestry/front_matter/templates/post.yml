@@ -14,4 +14,5 @@ fields:
 pages:
 - content/posts/2019/debugging-drupal-7-templates.md
 - content/posts/2019/design-4-drupal-boston.md
+- content/posts/2020/configuring-xdebug-with-wordpress-docker-and-vs-code.md
 - content/posts/2020/importing-databases-into-docker-via-the-command-line.md
