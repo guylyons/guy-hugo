@@ -8,17 +8,17 @@ title = "Importing a database into a Docker container"
 
 Importing a database into a running MariaDB/MySQL container is a straight forward process.
 
-1) First, you'll need to run the MySQL CLI and provision an empty database.
+**1) First, you'll need to run the MySQL CLI and provision an empty database.**
 
     docker exec -it <container_id> mysql -u<user> -p<password>
 
-2) Create your blank database.
+**2) Create your blank database.**
 
     create database something_unique;
 
 Open up a terminal and cd into the directory that contains your .db file you'd like to import.
 
-3) Run the following:
+**3) Run the following:**
 
     docker exec -i <container_id> mysql -u<user> -p<password> <your-empty-db-here> <your-local-db-file-here>	
 
