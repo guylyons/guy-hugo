@@ -1,7 +1,7 @@
 +++
 date = 2020-04-13T04:00:00Z
 tags = ["docker", "mysql", "mariadb"]
-title = "Importing databases into Docker via the command line"
+title = "Importing a database into a Docker container"
 
 +++
 Importing a database into a running MariaDB/MySQL container is a straight forward process.
