@@ -1,10 +1,12 @@
 +++
-date = 2020-04-14T04:00:00Z
-draft = true
+date = 2020-04-13T04:00:00Z
+draft = false
 tags = ["wordpress", "docker", "vscode", "xdebug"]
 title = "Configuring xdebug with WordPress, Docker and VS Code"
 
 +++
+![docker.png](../docker.png)
+
 Sometimes configuration for debugging your stack can be a pain.
 
 Explain how to configure the Dockerfile
