@@ -1,6 +1,6 @@
 +++
 date = 2020-04-13T04:00:00Z
-draft = false
+draft = true
 tags = ["wordpress", "docker", "vscode", "xdebug"]
 title = "Configuring xdebug with WordPress, Docker and VS Code"
 
