@@ -1,7 +1,7 @@
 baseURL = "https://yugsnoyl.com/"
 languageCode = "en-us"
 title = "Guy Lyons"
-theme = "noncomplex"
+theme = "noncomplex-theme"
 Paginate = 8 
 pygmentsUseClasses=true
 
