@@ -9,6 +9,7 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-TX86D8M');</script>
 	<!-- End Google Tag Manager -->
+	
 	<script src="/script.js"></script>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -32,9 +33,9 @@
     <div class="container">
 
 	{{ block "header" . }}
-	<header class="header">
-	    {{ partial "header.html" . }}
-	</header>
+		<header class="header">
+			{{ partial "header.html" . }}
+		</header>
 	{{ end }}
 
 	<main>
@@ -43,7 +44,7 @@
 	</main>
 
 	{{ block "footer" . }}
-	{{ partial "footer.html" . }}
+		{{ partial "footer.html" . }}
 	{{ end }}
     </div>
 </body>
