@@ -20,7 +20,7 @@ Open up a terminal and cd into the directory that contains your .db file you'd l
 
 **3) Run the following:**
 
-    docker exec -i <container_id> mysql -u<user> -p<password> <your-empty-db-here> > <your-local-db-file-here>	
+    docker exec -i <container_id> mysql -u<user> -p<password> <your-empty-db-here> < <your-local-db-file-here>	
 
 The `-i` flag allows docker to execute with STDIN, which in this case is your db file.
 
