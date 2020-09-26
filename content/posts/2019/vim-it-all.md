@@ -10,9 +10,7 @@ configured in Emacs.
 
 Here are some extensions and plugins I use to include Vim keybindings on my machine:
 
-[Vim from the MIT Missing Lectures series](https://missing.csail.mit.edu/2020/editors/)
-
-## Web
+## Chrome/Firefox
 
 * [Vimium for Chrome](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en "Vimium for Chrome")
 * [Vim Vixen for Firefox](https://addons.mozilla.org/en-US/firefox/addon/vim-vixen/)
@@ -26,3 +24,8 @@ Here are some extensions and plugins I use to include Vim keybindings on my mach
 
 * [Vim for Visual Studio Code](https://github.com/VSCodeVim/Vim)
 
+## Also
+
+[Vim from the MIT Missing Lectures series](https://missing.csail.mit.edu/2020/editors/)
+
+If Vim Everwhere sounds crazy, give it a chance. Once you get comfy on the homewrow, you'll never want to reach for a mouse again.
