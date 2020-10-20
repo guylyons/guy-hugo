@@ -9,7 +9,7 @@ tags:
 
 Eshell is the Emacs terminal emulator written 100% in elisp. It's much faster than ansi-term or sane-term, and has some added benefits other than just speed.
 
-If your on a Mac, you might not have access to some of the commands your used to using in Bash, because you need to configure
+If you are on a Mac, you might not have access to some of the commands your used to using in Bash, because you need to configure
 your exec-path. Similar to the $PATH variable in Bash, exec-path is a user defined value in Emacs that can take
 an array of directories that you want to expose for executing their binaries.
 
