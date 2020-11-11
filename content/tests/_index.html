@@ -8,5 +8,8 @@ title: "Tests"
 
 <script>
     console.log("You are on a test page.");
-    // ga('send', 'event', 'Modals', 'show', 'No studentID provided');
+
+    window.onload = function() {
+        ga('send', 'event', 'Modals', 'show', 'No studentID provided');
+    }
 </script>
