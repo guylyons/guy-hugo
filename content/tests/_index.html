@@ -31,10 +31,11 @@ title: "Tests"
     console.log("You are on a test page.");
 
     window.onload = function() {
+        ga('create', 'UA-133184208-2', 'auto');
+        
         let button1 = document.getElementById("test");
 
         button1.addEventListener("click", function (event) {
-            ga('create', 'UA-133184208-2', 'auto');
             ga('send', 'event', {
                 eventCategory: 'CTA',
                 eventAction: 'click',
@@ -42,7 +43,6 @@ title: "Tests"
             });
         });
             
-        ga('create', 'UA-133184208-2', 'auto');
         ga('send', 'event', 'Modals', 'show', 'No studentID provided');
     }
 </script>
