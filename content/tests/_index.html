@@ -6,10 +6,42 @@ title: "Tests"
     This is a page to test GA
 </p>
 
+<style>
+    .cta {
+        text-align: center;
+        background: #fff;
+        padding: 1em;
+    }
+    .cta a {
+        padding: 10px;
+        border: 1px solid;
+    }
+    .cta {
+        box-shadow: 0 0 2px;
+    }
+</style>
+
+<div class="cta">
+    <p>this is a test, do you like it?</p>
+    <a href="#" id="test">click me!</a>
+    <a href="#" id="test2">buy now!</a>
+</div>
+
 <script>
     console.log("You are on a test page.");
 
     window.onload = function() {
+        let button1 = document.getElementById("test");
+
+        button1.addEventListener("click", function (event) {
+            ga('create', 'UA-133184208-2', 'auto');
+            ga('send', 'event', {
+                eventCategory: 'CTA',
+                eventAction: 'click',
+                eventLabel: event.target.href
+            });
+        });
+            
         ga('create', 'UA-133184208-2', 'auto');
         ga('send', 'event', 'Modals', 'show', 'No studentID provided');
     }
