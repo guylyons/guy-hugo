@@ -21,6 +21,13 @@ but find myself doodling this guy now even when I'm just messing around.
 <img src="/posts/2020/image2.png" alt="mmmm">
 <img src="/posts/2020/image3.png" alt="mmmm">
 
-See my drawings here for the Cong Tu Bot newsleter KHỔ QUA
+<div style="border: 3px solid #000;border-radius: 20px; background:#fff; padding:1em; text-align: center; font-size: 1.4em;">
+😊😊😊😊😊😊😊😊😊😊😊
+    <p>See my drawings here for the Cong Tu Bot newsleter</p>
+    
 
-https://khoqua.substack.com/p/uncertainty2
+   <a href="https://khoqua.substack.com/p/uncertainty2">
+    KHỔ QUA
+   </a>
+
+</div>
