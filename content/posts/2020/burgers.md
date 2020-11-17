@@ -20,3 +20,7 @@ but find myself doodling this guy now even when I'm just messing around.
 
 <img src="/posts/2020/image2.png" alt="mmmm">
 <img src="/posts/2020/image3.png" alt="mmmm">
+
+See my drawings here for the Cong Tu Bot newsleter KHỔ QUA
+
+https://khoqua.substack.com/p/uncertainty2
