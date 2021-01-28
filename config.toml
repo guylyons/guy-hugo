@@ -5,6 +5,9 @@ theme = "noncomplex-theme"
 Paginate = 8 
 pygmentsUseClasses=true
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
     github = "guylyons"
     linkedin = "guylyons"
