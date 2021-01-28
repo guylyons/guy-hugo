@@ -19,9 +19,8 @@ bloat of modern day Photoshop.
 Above is one of the static versions. I combined a few of these, with a few different colors
 to create my animation.
 
-<img src="/posts/2020/mistake.gif" width="300" alt="noodles!">
-<img src="/posts/2020/noodles.gif" width="300" alt="noodles!">
 <img src="/posts/2020/noodle3.jpg" width="300" alt="noodles!">
+<img src="/posts/2020/noodles.gif" width="300" alt="noodles!">
 
 Over all I'm enjoying using Gimp and Inkscape together to achieve these results. It's nice
 to not have to depend on Adobe, and to also use a tool that is predictable, stable, and
